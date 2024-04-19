@@ -176,7 +176,7 @@ image: Shakespeare scrap binding
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/8f969840-0d11-4616-98c9-436e01a6f539"
-       label="Shakespeare scrab binding">
+       label="Shakespeare scrap binding">
 
 ## Religion and preaching
 After Mary I died and Elizabeth I became Queen, the 1559 Act of Uniformity made it compulsory to use the Book of Common Prayer in every church from 24 June 1559, and to attend church once a week, making it almost impossible for Catholics to practice their faith. Despite this, in 1577 the Privy Council accused the Inns of Court of being “greatlie infected with Poperie”. In 1581 a correspondent wrote to Sir William Cecil that “Papists are suffered at the Inns of Court”. Two such ‘Papists’ were Edmund Plowden (1518-1585, Middle Temple) and Sir Thomas Tresham (1543-1605, Middle Temple). 
