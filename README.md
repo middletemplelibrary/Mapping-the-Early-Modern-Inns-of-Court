@@ -10,8 +10,9 @@
 Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns of Court.
 
 <param ve-image 
-       label="The Temple in 1671 (MT/19/ILL/D/D8/2)"
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+      label="The Temple in 1671 (MT/19/ILL/D/D8/2)"
+      url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+
 
 ## 2 Introduction: Mapping the Early Modern Inns of Court
 The early modern Inns of Court have long been recognised as an intellectual and cultural hub. ‘Mapping the Early Modern Inns of Court’ is an initiative that brings together an international community of researchers from a variety of disciplines working in this field. They run seminars, a blog, and provide a platform where researchers can share their work and bring published material to everyone’s attention. 
