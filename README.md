@@ -21,15 +21,13 @@ This exhibition highlights some of the areas that the group has explored in thei
 <br><br>
 The text in the caption cards includes submissions from some of the people involved in the project: Blessin Adams, Penelope Geng, Jackie Watson, and Jessica Winston. Contributions have also been made by Wilfrid Prest and Sylvia Sumira. 
 <br><br>
-A collection of essays produced by the project, Mapping the Early Modern Inns of Court, is forthcoming from Palgrave. For more information and to sign up for the mailing list see: https://mappinginns.wordpress.com/
+A collection of essays produced by the project, Mapping the Early Modern Inns of Court, is forthcoming from Palgrave. For more information and to sign up for the mailing list, click [here](https://mappinginns.wordpress.com/).
 <br><br>
-Link/image: link to archive of the month : https://www.middletemple.org.uk/archive-history/archive-month/september-2021-books-bread-and-beer and Image of Temple Church with shops in front (MT/19/ILL/F/F11/12) 
+Read the Archive of the month [September 2021: Books, Bread and Beer - A History of Shops and Taverns at the Middle Temple](https://www.middletemple.org.uk/archive-history/archive-month/september-2021-books-bread-and-beer) and Image of Temple Church with shops in front (MT/19/ILL/F/F11/12) 
 
 <param ve-image 
       label="The Temple in 1671 (MT/19/ILL/D/D8/2)"
       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/25e241cb-e140-43ed-801d-c98dd04a84af">
-<param ve-iframe
-       src="https://www.middletemple.org.uk/archive-history/archive-month/september-2021-books-bread-and-beer">
 
 ## 3 Recreation  
 Innsmen enjoyed a variety of leisurely pursuits while at the Inns of Court, including dancing, fencing, gambling, and music. Revelling was also popular amongst Innsmen, as playgoers, performers and as authors of plays. 
