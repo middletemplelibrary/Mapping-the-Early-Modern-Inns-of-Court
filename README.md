@@ -27,7 +27,10 @@ Link/image: link to archive of the month : https://www.middletemple.org.uk/archi
 
 <param ve-iframe
        src="https://mappinginns.wordpress.com/">
-       
+<param ve-image 
+      label="The Temple in 1671 (MT/19/ILL/D/D8/2)"
+      url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/25e241cb-e140-43ed-801d-c98dd04a84af">
+
 ## 3 Recreation  
 Innsmen enjoyed a variety of leisurely pursuits while at the Inns of Court, including dancing, fencing, gambling, and music. Revelling was also popular amongst Innsmen, as playgoers, performers and as authors of plays. 
 <br><br>
