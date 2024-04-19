@@ -23,10 +23,10 @@ The text in the caption cards includes submissions from some of the people invol
 <br><br>
 A collection of essays produced by the project, Mapping the Early Modern Inns of Court, is forthcoming from Palgrave. For more information and to sign up for the mailing list, click [here](https://mappinginns.wordpress.com/).
 <br><br>
-Read the Archive of the month [September 2021: Books, Bread and Beer - A History of Shops and Taverns at the Middle Temple](https://www.middletemple.org.uk/archive-history/archive-month/september-2021-books-bread-and-beer) and Image of Temple Church with shops in front (MT/19/ILL/F/F11/12) 
+Read the Archive of the month [September 2021: Books, Bread and Beer - A History of Shops and Taverns at the Middle Temple](https://www.middletemple.org.uk/archive-history/archive-month/september-2021-books-bread-and-beer).
 
 <param ve-image 
-      label="The Temple in 1671 (MT/19/ILL/D/D8/2)"
+      label="Image of Temple Church with shops in front (MT/19/ILL/F/F11/12)"
       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/25e241cb-e140-43ed-801d-c98dd04a84af">
 
 ## 3 Recreation  
@@ -38,8 +38,7 @@ The Misfortunes of Arthur is a play “written in 1587 by Thomas Hughes, and oth
 <br><br>
 Link/image: Link to https://archive.org/details/misfortunesofart00hughrich/page/4/mode/2up + include images of playing cards? Images of two 16th century playing cards found in the Gatehouse at Lincoln’s Inn when it was rebuilt in the 1960s. The earliest examples of playing cards found in Britain.
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+<iframe src="https://archive.org/embed/misfortunesofart00hughrich" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## 4
 Sir John Davies (1569-1626) was a poet and member of Middle Temple. He fell drunk during the Middle Temple’s 1597/1598 Christmas revels, spoke insultingly of women, and had to be carried back to the Inn after falling asleep in a stall. This was allowed to happen despite the Inn’s proclamation that the feast of Christmas was meant to be celebrated solemnly. A few days later, Davies “practised factiously against the Prince of Love [i.e. Richard Martin], and earnestly stirred enmity betwixt him” and the members of Lincoln’s Inn. In the aftermath of the revels, he attacked Martin with a ‘bastionado’ while the latter was at dinner in Hall. He escaped by boat to Oxford, and was expelled and disbarred in absentia shortly after.”  – Jackie Watson
