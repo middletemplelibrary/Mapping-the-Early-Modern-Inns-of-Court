@@ -35,11 +35,10 @@ Innsmen enjoyed a variety of leisurely pursuits while at the Inns of Court, incl
 The Misfortunes of Arthur is a play “written in 1587 by Thomas Hughes, and other law students at Gray’s Inns, for performance before the Queen at Greenwich. In that venue, the Innsmen presented a prologue calling attention to their background and identity as law students, and thereby constructing for the queen an image of themselves as legal professionals: they are men whose legal training and serious dispositions make them central to the governance of the country”. – Jessica Winston
 <br><br>
 “Cultural, literary, and intellectual forms of play elevated Inns' members, while lower, disorderly forms debased them. Yet these modes of play were not wholly distinctive, nor mutually exclusive. Revels and high drama went hand-in-hand with feasting, drinking, and gaming … Rude, base, and at times libellous play was deliberately used by a group of serious-minded law students to develop auxiliary skills such as rhetoric, invention, and argument; to explore legal ethics and a broader kind of jurisprudence; and to put into practice humanist and medical methods of restorative play.” – Blessin Adams
-<br><br>
-Link/image: Link to https://archive.org/details/misfortunesofart00hughrich/page/4/mode/2up + include images of playing cards? Images of two 16th century playing cards found in the Gatehouse at Lincoln’s Inn when it was rebuilt in the 1960s. The earliest examples of playing cards found in Britain.
 
 <param ve-iframe
        src="https://archive.org/embed/misfortunesofart00hughrich">
+       label="The Misfortunes of Arthur">
 
 ## 4
 Sir John Davies (1569-1626) was a poet and member of Middle Temple. He fell drunk during the Middle Temple’s 1597/1598 Christmas revels, spoke insultingly of women, and had to be carried back to the Inn after falling asleep in a stall. This was allowed to happen despite the Inn’s proclamation that the feast of Christmas was meant to be celebrated solemnly. A few days later, Davies “practised factiously against the Prince of Love [i.e. Richard Martin], and earnestly stirred enmity betwixt him” and the members of Lincoln’s Inn. In the aftermath of the revels, he attacked Martin with a ‘bastionado’ while the latter was at dinner in Hall. He escaped by boat to Oxford, and was expelled and disbarred in absentia shortly after.”  – Jackie Watson
