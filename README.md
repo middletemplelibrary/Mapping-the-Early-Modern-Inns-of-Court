@@ -8,9 +8,9 @@
 
 ## 1
 Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns of Court.
-<br><br>
-Image: The Temple in 1671 (MT/19/ILL/D/D8/2)
+
 <param ve-image 
+       label="The Temple in 1671 (MT/19/ILL/D/D8/2)"
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 ## 2 Introduction: Mapping the Early Modern Inns of Court
