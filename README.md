@@ -38,7 +38,7 @@ The Misfortunes of Arthur is a play “written in 1587 by Thomas Hughes, and oth
 <br><br>
 Link/image: Link to https://archive.org/details/misfortunesofart00hughrich/page/4/mode/2up + include images of playing cards? Images of two 16th century playing cards found in the Gatehouse at Lincoln’s Inn when it was rebuilt in the 1960s. The earliest examples of playing cards found in Britain.
 
-<iframe src="https://archive.org/embed/misfortunesofart00hughrich" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<param ve-iframe src="https://archive.org/embed/misfortunesofart00hughrich" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## 4
 Sir John Davies (1569-1626) was a poet and member of Middle Temple. He fell drunk during the Middle Temple’s 1597/1598 Christmas revels, spoke insultingly of women, and had to be carried back to the Inn after falling asleep in a stall. This was allowed to happen despite the Inn’s proclamation that the feast of Christmas was meant to be celebrated solemnly. A few days later, Davies “practised factiously against the Prince of Love [i.e. Richard Martin], and earnestly stirred enmity betwixt him” and the members of Lincoln’s Inn. In the aftermath of the revels, he attacked Martin with a ‘bastionado’ while the latter was at dinner in Hall. He escaped by boat to Oxford, and was expelled and disbarred in absentia shortly after.”  – Jackie Watson
