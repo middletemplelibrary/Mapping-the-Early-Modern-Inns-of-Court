@@ -37,7 +37,7 @@ The Misfortunes of Arthur is a play “written in 1587 by Thomas Hughes, and oth
 “Cultural, literary, and intellectual forms of play elevated Inns' members, while lower, disorderly forms debased them. Yet these modes of play were not wholly distinctive, nor mutually exclusive. Revels and high drama went hand-in-hand with feasting, drinking, and gaming … Rude, base, and at times libellous play was deliberately used by a group of serious-minded law students to develop auxiliary skills such as rhetoric, invention, and argument; to explore legal ethics and a broader kind of jurisprudence; and to put into practice humanist and medical methods of restorative play.” – Blessin Adams
 
 <param ve-iframe
-       src="https://archive.org/embed/misfortunesofart00hughrich">
+       src="https://archive.org/embed/misfortunesofart00hughrich"
        label="The Misfortunes of Arthur">
 
 ## 4
