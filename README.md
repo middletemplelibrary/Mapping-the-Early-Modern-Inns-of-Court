@@ -28,7 +28,7 @@ Link/image: link to archive of the month : https://www.middletemple.org.uk/archi
        src="https://mappinginns.wordpress.com/">
        
 ## 3 Recreation  
-Innsmen enjoyed a variety of leisurely pursuits while at the Inns of Court, including dancing, fencing, gambling, and music. Revelling was also popular amongst Innsmena, as playgoers, performers and as authors of plays. 
+Innsmen enjoyed a variety of leisurely pursuits while at the Inns of Court, including dancing, fencing, gambling, and music. Revelling was also popular amongst Innsmen, as playgoers, performers and as authors of plays. 
 <br><br>
 The Misfortunes of Arthur is a play “written in 1587 by Thomas Hughes, and other law students at Gray’s Inns, for performance before the Queen at Greenwich. In that venue, the Innsmen presented a prologue calling attention to their background and identity as law students, and thereby constructing for the queen an image of themselves as legal professionals: they are men whose legal training and serious dispositions make them central to the governance of the country”. – Jessica Winston
 <br><br>
