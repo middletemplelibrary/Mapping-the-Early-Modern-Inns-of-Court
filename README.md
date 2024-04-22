@@ -158,8 +158,6 @@ In addition to producing translations of Greek plays, Stanley published this thr
 
 ## 16 John Dryden, The medall (London, 1682)
 This is a satire in verse on Anthony Ashley Cooper (1621-1683, Lincoln’s Inn), the first Earl of Shaftesbury (and great-nephew of Robert Ashley). This is Dryden’s response to the Earl’s acquittal for treason in 1681, for which a medal was struck to commemorate the event. Although not a member of the Inn himself, Dryden was friends with Innsmen such as William Congreve (1670-1690, Middle Temple), and his plays were performed at venues beside the Inns, such as the theatre at Lincoln’s Inn Fields. 
-<br><br>
-image: Dryden: https://archive.org/details/drydenmedall1682
 
 <param ve-iframe
        src="https://archive.org/embed/drydenmedall1682">
