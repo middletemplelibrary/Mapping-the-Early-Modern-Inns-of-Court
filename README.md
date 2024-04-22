@@ -195,8 +195,6 @@ An order of the House of Commons in May 1641 obliged all men to swear an oath of
 
 ## 20 Communion books, mid-seventeenth century, MT/15/COM/1
 Members of Middle and Inner Temple had to sign this book to show that they had taken communion in Temple Church. It is open at 9 May 1669. One of the signers is Sir John Hoskyns (1634-1705, Middle Temple). Hoskyns became president of the Royal Society in 1682. He was friends with John Evelyn (1620-1706, Middle Temple), John Aubrey and other scholars. He was described as an awkwardly dressed man who might be taken for a ‘sorry quack’ because of it. He is not to be confused with the poet and wit John Hoski/yns (1566-1638, Middle Temple), who is described as ‘merry’ in the ‘Parliament Fart’, and who participated in the 1597-8 revels at Middle Temple. 
-<br><br>
-Image/link : Communion books: Observations of Iceland by Mr Hoskins: Reference number: RBO/2i/16. https://makingscience.royalsociety.org/items/rbo_2i_16/observations-of-iceland-by-mr-hoskins?page=1  embed the image within a Science in the Making frame, you can copy the embed code from the webpage (bottom right hand side). Let me know if this doesn’t work. 
 
 <param ve-iframe
  src="https://makingscience.royalsociety.org/embed/items/rbo_2i_16/observations-of-iceland-by-mr-hoskins"
@@ -204,11 +202,10 @@ Image/link : Communion books: Observations of Iceland by Mr Hoskins: Reference n
 
 ## 21 John Sweet, Monsig[neu]r fate voi. Or A discovery of the Dalmatian apostata (Saint-Omer, 1617)
 As per the title page, this tract was written by ‘C.A.’ (that is, John Sweet) “to his friend P.R. student of the lawes in the Middle Temple”. The ‘Dalmatian apostata’ is a reference to Marco Antonio de Dominis (1560-1604), who fled from the Popish dominions to England during the reign of James I, where he published a series of books against the spiritual primacy of the See of Rome. Sweet was an English Jesuit, who wrote this tract in response to de Dominis’s De Republica Ecclesiastica. It was printed by the English College Press in Saint-Omer, France. The Press was part of the English Jesuit College, established by the Company of Jesuits to train English Jesuit missionaries. The identity of ‘P.R.’ is unknown, but recusants were known to reside at the Inns in the early modern period. 
-<br><br>
-Image/link: Sweet book: https://archive.org/details/bim_early-english-books-1475-1640_monsigr-fate-voi-or-a_sweet-j_1617
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+<param ve-iframe
+       src="https://archive.org/embed/bim_early-english-books-1475-1640_monsigr-fate-voi-or-a_sweet-j_1617" 
+       label="John Sweet, Monsig[neu]r fate voi. Or A discovery of the Dalmatian apostata (Saint-Omer, 1617)">
 
 ## 22 William Crashaw, Ad Seuerinum Binnium Louaniensem theologum Epistola commonitoria super conciliorum generalium editione ab ipso nuper adornata (London, 1624)  
 William Crashaw (1572-1626) was not only the preacher at Temple Church, but also a poet and bibliophile, who amassed a large collection of books while living at the Temple. He published a number of works in his lifetime, including this series of letters to Severin Binius (1573-1641) on the religious aspects of authority. In 1613, Crashaw attempted to sell his library to the Inn, but was turned down. His letter mentions “one of ye finest paire of globes in Englande”, a possible reference to the Molyneux Globes, but no further evidence exists regarding the Globes’ provenance. 
