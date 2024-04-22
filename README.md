@@ -111,6 +111,12 @@ image/ link : https://digitalcollections.folger.edu/bib129002-280249 - manuscrip
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
+       
+<param ve-iframe
+       src="https://digitalcollections.folger.edu/bib129002-280249"
+       label="Manuscript of the ‘manner of the progression of the masque,The triumph of peace, 1634’. Folger Shakespeare Library."
+       licene="CC0 BY 1.0
+
 ## 11 Otto Melander, Jocorum atque seriorum (Frankfurt, 1617)
 Melander was a German lawyer who was critical of witchcraft trials. He had a sideline in publishing collections such as this, which is a compendium of jokes in Latin and humorous anecdotes. Blessin Adams has shown how early modern legal manuscript notebooks often contained non-legal texts alongside their more serious contents of moots and legal learning exercises, including ‘joco seria’ – humourous stories and jests. See for example Cambridge University Library’s manuscript CUL Dd.5.14.
 <br><br>
