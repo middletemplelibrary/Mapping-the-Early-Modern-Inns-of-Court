@@ -109,7 +109,7 @@ Perhaps one of the most famous examples of their participation in literary cultu
 <param ve-iframe
        src="https://digitalcollections.folger.edu/bib129002-280249"
        label="Manuscript of the ‘manner of the progression of the masque,The triumph of peace, 1634’. Folger Shakespeare Library."
-       license="CC0 BY 1.0>
+       license="CC0 BY 1.0">
 
 ## 11 Otto Melander, Jocorum atque seriorum (Frankfurt, 1617)
 Melander was a German lawyer who was critical of witchcraft trials. He had a sideline in publishing collections such as this, which is a compendium of jokes in Latin and humorous anecdotes. Blessin Adams has shown how early modern legal manuscript notebooks often contained non-legal texts alongside their more serious contents of moots and legal learning exercises, including ‘joco seria’ – humourous stories and jests. See for example Cambridge University Library’s manuscript CUL Dd.5.14.
