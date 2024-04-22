@@ -51,7 +51,7 @@ Image © [Trustees of the British Museum](https://www.britishmuseum.org/collecti
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bde9673d-abd9-475b-ae76-d06dffeccc8b"
        license="CC BY-NC-SA 4.0"
-       label="Illustration of two ‘bastionados’>
+       label="Illustration of two ‘bastionados'">
 
 ## 5 Portrait of Richard Martin (1570-1618) MT/19/POR/464   
 Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html))
@@ -80,12 +80,10 @@ Fortescue’s De Laudibus Legum Angliae (in praise of the laws of England) is be
 ## 8 Daneau Lambert, Deux traitez nouveaux, tres-utiles pour ce temps … (Geneva, 1579)
 This book was part of the Robert Ashley bequest of 1641 which reinstated a library at Middle Temple. It is divided into two parts. The first is about witchcraft, and the second about the religious aspects of dice and card games. In 1628, Gray’s Inn decreed that “all playing at dice, cards, or otherwise, in the hall, buttery, or butler’s chamber” was forbidden, except for the twenty days at Christmas. Innsmen were loathe to obey such rules however. In 1730s the floor boards in Middle Temple Hall were replaced, revealing hundreds of pairs of dice were found, having fallen through floor joints over the years. 
 <br><br>
-image : Lambert book: https://gallica.bnf.fr/ark:/12148/bpt6k84824s.image - use their ‘embed’ function, don’t copy/paste
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 <param ve-iframe
-       src="https://gallica.bnf.fr/ark:/12148/bpt6k84824s/f1.image.mini">
+       src="https://gallica.bnf.fr/ark:/12148/bpt6k84824s/f1.image.mini"
+       label="Daneau Lambert, Deux traitez nouveaux, tres-utiles pour ce temps">
 
 ## 9 An unsigned letter, potentially to Master Treasurer, MT/3/MEM/24, 1667/8
 This copy of an anonymous letter addressed to Sir Geoffrey Palmer, ‘Mr Att[orney] Generall’ is dated 3 January 1668 by the modern Gregorian calendar, which starts each new year on 1 January, not 25 March as in the pre-1752 Julian calendar. So it was written just 14 months after the September 1666 Great Fire of London, which destroyed most of the medieval city, spreading almost to the Temple Church. This disaster was seen by many contemporaries, including the letter’s author, as God’s punishment for the sins of the nation in general and Londoners in particular.
