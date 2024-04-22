@@ -105,17 +105,11 @@ Jan. 3. 67. 									Your servant
 “Many early modern poets and playwrights were also members of the Inns of Court, and these authors shaped the development of key genres of the English Renaissance, especially lyric poetry, dramatic tragedy, satire, and masque”. The Inns’ geographical placement between Westminster and the City meant that Innsmen were well-placed to take advantage of London’s literary pastimes, as spectators and participants. “Poetry, translation, and performance were recreation pastimes [and] these activities also defined and elevated the status of” Innsmen as active participants in England’s legal world. – Jessica Winston, Lawyers at play
 <br><br>
 Perhaps one of the most famous examples of their participation in literary culture is the 1634 ‘Triumph of Peace’ masque. It was performed by members of all four Inns for Charles I at Banqueting House in Whitehall. The masque was written by James Shirley (1596-1666, Gray’s Inn) and staged by Inigo Jones (1573-1652, Middle Temple). William Prynne (1600-1669, Lincoln’s Inn) famously attacked Queen Henrietta Maria’s participation in the masque and was rewarded by being sentenced to have his ears chopped off. 
-<br><br>
-image/ link : https://digitalcollections.folger.edu/bib129002-280249 - manuscript of the ‘manner of the progression of the masque,The triumph of peace, 1634’. Folger Shakespeare Library
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
-
-       
 <param ve-iframe
        src="https://digitalcollections.folger.edu/bib129002-280249"
        label="Manuscript of the ‘manner of the progression of the masque,The triumph of peace, 1634’. Folger Shakespeare Library."
-       licene="CC0 BY 1.0
+       license="CC0 BY 1.0>
 
 ## 11 Otto Melander, Jocorum atque seriorum (Frankfurt, 1617)
 Melander was a German lawyer who was critical of witchcraft trials. He had a sideline in publishing collections such as this, which is a compendium of jokes in Latin and humorous anecdotes. Blessin Adams has shown how early modern legal manuscript notebooks often contained non-legal texts alongside their more serious contents of moots and legal learning exercises, including ‘joco seria’ – humourous stories and jests. See for example Cambridge University Library’s manuscript CUL Dd.5.14.
