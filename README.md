@@ -84,6 +84,8 @@ image : Lambert book: https://gallica.bnf.fr/ark:/12148/bpt6k84824s.image - use 
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+<param ve-iframe
+       src="https://gallica.bnf.fr/ark:/12148/bpt6k84824s/f1.image.mini">
 
 ## 9 An unsigned letter, potentially to Master Treasurer, MT/3/MEM/24, 1667/8
 This copy of an anonymous letter addressed to Sir Geoffrey Palmer, ‘Mr Att[orney] Generall’ is dated 3 January 1668 by the modern Gregorian calendar, which starts each new year on 1 January, not 25 March as in the pre-1752 Julian calendar. So it was written just 14 months after the September 1666 Great Fire of London, which destroyed most of the medieval city, spreading almost to the Temple Church. This disaster was seen by many contemporaries, including the letter’s author, as God’s punishment for the sins of the nation in general and Londoners in particular.
