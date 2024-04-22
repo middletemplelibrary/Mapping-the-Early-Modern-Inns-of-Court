@@ -209,8 +209,6 @@ As per the title page, this tract was written by ‘C.A.’ (that is, John Sweet
 
 ## 22 William Crashaw, Ad Seuerinum Binnium Louaniensem theologum Epistola commonitoria super conciliorum generalium editione ab ipso nuper adornata (London, 1624)  
 William Crashaw (1572-1626) was not only the preacher at Temple Church, but also a poet and bibliophile, who amassed a large collection of books while living at the Temple. He published a number of works in his lifetime, including this series of letters to Severin Binius (1573-1641) on the religious aspects of authority. In 1613, Crashaw attempted to sell his library to the Inn, but was turned down. His letter mentions “one of ye finest paire of globes in Englande”, a possible reference to the Molyneux Globes, but no further evidence exists regarding the Globes’ provenance. 
-<br><br>
-Image: Crashaw letter MT-19-ILL-F-F12-3
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/5af4cadb-61bc-46b4-9ae3-87ad9485c4c9"
@@ -223,11 +221,11 @@ In an important book on Law as Performance, Julie Stone Peters has shown that le
 <br><br>
 Learning oratory and rhetorical skills came first from the Innsmen’s university education, and even their grammar school training. Many grammar school masters used theatre techniques to train performance skills to their students. Robert Ashley acted in comedies as a young schoolboy, and was also taught to read Cicero, Quintilian, Seneca, and Ovid. He, like his Innsmen contemporaries, regularly participated in ‘disputations’ while at Oxford, honing his argumentative skills. 
 <br><br>
-image/link: © The Trustees of the British Museum Image of Westminster Hall. Include link: https://www.britishmuseum.org/collection/image/265705001
+Image © [Trustees of the British Museum](https://www.britishmuseum.org/collection/image/265705001)
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/a98dd865-62a3-4447-a19b-2734b5f677d4)"
-       license="CC The Trustees of the British Museum"
+       license="CC BY-NC-SA 4.0"
        label="Image of Westminster Hall">
 
 ## 24 Seneca, Opera (1672)
