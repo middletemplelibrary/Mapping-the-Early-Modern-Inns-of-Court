@@ -135,8 +135,9 @@ As can be seen here, Selden writes that “Popish books teach and inform; what w
 Image: Table-talk: https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a59095.0001.001;node=A59095.0001.001:12;seq=36;submit=Go;type=simple;vid=55794;q1=popish%20books;page=root;view=text
 
 <param ve-iframe
-      src="https://quod.lib.umich.edu/e/eebo/A59095.0001.001/1:12?firstpubl1=1470;firstpubl2=1700;rgn=div1;singlegenre=All;sort=occur;subview=detail;type=simple;view=fulltext;q1=Popish+Books+teach+and+inform%2C+what+we+know%2C+we+know+much+out+of+them.+The+Fathers%2C+Church+Story%2C+School%E2%88%A3men%2C+all+may+pass+for+Popish+Books%2C+and+if+you+take+away+them%2C+what+Learning+will+you+leave)">
-
+      src="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a59095.0001.001;node=A59095.0001.001:12;seq=36;submit=Go;type=simple;vid=55794;q1=popish%20books;page=root;view=text"
+      label="John Selden, Table-talk (London, 1696)">
+      
 ## 14 Aeschyli tragoediae septem (London, 1664)
 This collection of Greek plays by Aeschylus was translated and edited by Thomas Stanley (1625-1678). It was donated by him to Middle Temple Library in 1667. It consists of the complete Greek text, with a Latin translation of each play. Stanley was a poet and classical scholar who lived at Middle Temple, next to his close friend, fellow scholar and Royalist, Edward Sherburne (1618-1702). 
 Stanley published a number of works in his lifetime, including Poems and translations (1647), which includes a commendatory verses by Sherburne. 
@@ -150,8 +151,6 @@ Image © [The Trustees of the British Museum](https://www.britishmuseum.org/coll
 
 ## 15 Thomas Stanley, The history of philosophy in eight parts, (London, 1656) 
 In addition to producing translations of Greek plays, Stanley published this three volume work on ancient philosophers, concentrating on “those on whom the Attribute of Wise was conferred”. This, the second volume, includes accounts of the doctrines of Plato, Aristotle, and Stoicism. It was purchased by the Library from a fund of £50 that had been donated by Sir Richard Pepys (1588-1659, Middle Temple), revealing the continued interest in classical authors and philosophy at the Inns of Court. Pepys was Samuel Pepys’ great-uncle. His second wife was Bartholomew Gosnold’s daughter,  Mary. Gosnold (1571-1607, Middle Temple) and his wife Mary Goldinge helped establish the Virginia Company’s settlement in Jamestown in the early seventeenth century. He died there in 1607.
-<br><br>
-image: Aristotle image
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/10f444f3-5f79-42b9-bb1d-92c80f877ff4)"
@@ -162,8 +161,8 @@ This is a satire in verse on Anthony Ashley Cooper (1621-1683, Lincoln’s Inn),
 <br><br>
 image: Dryden: https://archive.org/details/drydenmedall1682
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+<param ve-iframe
+       src="https://archive.org/embed/drydenmedall1682">
 
 ## 17 Christopher Brooke, The ghost of Richard the Third (London, 1844)
 Christopher Brooke (d. 1628, Lincoln’s Inn) was friends with John Donne, and shared a set of chambers with him. This is a nineteenth-century reproduction of a play that was originally published in 1614. It contained dedicatory poems by members of Inner Temple, including William Browne (1590-1645) and Francis Dynne (dates unknown). On the title page, Brooke claims the poem contains more about Richard the Third than ‘hath been heretofore shewed; either in Chronicles, Playaes, or poems,’ a reference to the various publications and performances that were being circulated at the time, including the one by Shakespeare. 
