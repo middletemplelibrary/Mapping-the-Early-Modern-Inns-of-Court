@@ -131,8 +131,6 @@ image: Reusner, Aenigmatographia – title page
 
 ## 13 John Selden, Table-talk (London, 1696)
 As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. Table-talk was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
-<br><br>
-Image: Table-talk: https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a59095.0001.001;node=A59095.0001.001:12;seq=36;submit=Go;type=simple;vid=55794;q1=popish%20books;page=root;view=text
 
 <param ve-iframe
       src="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a59095.0001.001;node=A59095.0001.001:12;seq=36;submit=Go;type=simple;vid=55794;q1=popish%20books;page=root;view=text"
@@ -166,8 +164,6 @@ This is a satire in verse on Anthony Ashley Cooper (1621-1683, Lincoln’s Inn),
 Christopher Brooke (d. 1628, Lincoln’s Inn) was friends with John Donne, and shared a set of chambers with him. This is a nineteenth-century reproduction of a play that was originally published in 1614. It contained dedicatory poems by members of Inner Temple, including William Browne (1590-1645) and Francis Dynne (dates unknown). On the title page, Brooke claims the poem contains more about Richard the Third than ‘hath been heretofore shewed; either in Chronicles, Playaes, or poems,’ a reference to the various publications and performances that were being circulated at the time, including the one by Shakespeare. 
 <br><br>
 This spine label was found in one of the Library’s legal manuscripts (MS2O), a sixteenth/seventeenth-century book of entries by Richard Brownlow (1553-1638, Inner Temple). It is a tantalising clue that Brownlow, or his heirs, had a copy of Shakespeare’s The tragedie of King Richard the second, or The life and death of King Richard the Second.
-<br><br>
-image: Shakespeare scrap binding
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/8f969840-0d11-4616-98c9-436e01a6f539"
@@ -193,8 +189,6 @@ Image : Donne, Pseudo-martyr title page
 
 ## 19 Recusants order, 1641, MT/1/MIS/33
 An order of the House of Commons in May 1641 obliged all men to swear an oath of allegiance to the Protestant religion. In response, the four Inns of Court had to search for recusants dwelling at the Inns, including at the Inns of Chancery, and expel those who were found. 
-<br><br>
-Image: recusants order 
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9b91b2c7-9684-4844-888f-c258450f21a4">
@@ -204,8 +198,9 @@ Members of Middle and Inner Temple had to sign this book to show that they had t
 <br><br>
 Image/link : Communion books: Observations of Iceland by Mr Hoskins: Reference number: RBO/2i/16. https://makingscience.royalsociety.org/items/rbo_2i_16/observations-of-iceland-by-mr-hoskins?page=1  embed the image within a Science in the Making frame, you can copy the embed code from the webpage (bottom right hand side). Let me know if this doesn’t work. 
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+<param ve-iframe
+ src="https://makingscience.royalsociety.org/embed/items/rbo_2i_16/observations-of-iceland-by-mr-hoskins"
+       label="Observations of Iceland by Mr Hoskins: Reference number: RBO/2i/16">
 
 ## 21 John Sweet, Monsig[neu]r fate voi. Or A discovery of the Dalmatian apostata (Saint-Omer, 1617)
 As per the title page, this tract was written by ‘C.A.’ (that is, John Sweet) “to his friend P.R. student of the lawes in the Middle Temple”. The ‘Dalmatian apostata’ is a reference to Marco Antonio de Dominis (1560-1604), who fled from the Popish dominions to England during the reign of James I, where he published a series of books against the spiritual primacy of the See of Rome. Sweet was an English Jesuit, who wrote this tract in response to de Dominis’s De Republica Ecclesiastica. It was printed by the English College Press in Saint-Omer, France. The Press was part of the English Jesuit College, established by the Company of Jesuits to train English Jesuit missionaries. The identity of ‘P.R.’ is unknown, but recusants were known to reside at the Inns in the early modern period. 
