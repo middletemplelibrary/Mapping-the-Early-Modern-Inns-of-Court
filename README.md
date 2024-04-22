@@ -224,14 +224,12 @@ Learning oratory and rhetorical skills came first from the Innsmen’s universit
 Image © [Trustees of the British Museum](https://www.britishmuseum.org/collection/image/265705001)
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/a98dd865-62a3-4447-a19b-2734b5f677d4)"
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9adca26e-9995-47f8-a0f7-e9e20722564d"
        license="CC BY-NC-SA 4.0"
        label="Image of Westminster Hall">
 
 ## 24 Seneca, Opera (1672)
 Seneca was a model orator and lawyer to Innsmen, who studied and translated his works. They were taught Senecan verse while still at school, and continued to study, and translate his works as adults. Seneca was a “classical version of the sort of rhetorician and politician that those at the universities and Inns of Court were trying to become” – Jessica Winston. This copy has a vellum binding decorated with a gold-tooled armorial device bearing the royal coat-of-arms, but its provenance remains unidentified. 
-<br><br>
-Image/ link: Seneca: Front binding and/or title page
 
 <param ve-compare curtain url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" label="Seneca front binding" description="photograph">
 
