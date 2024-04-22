@@ -63,11 +63,10 @@ Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for
 ## 6 Fencing receipt: MT/21/2/7/HT: payment to fencing professor M[onsieur] Philebois, dated 1653
 “Those who dedicated themselves to the study of law at the Inns valued such intellectual traits as a keen memory and verbal playfulness. In addition to his supreme intelligence, an Innsman in this period also cultivated a courtly physique. Ongoing research work on the performance of dancing and fencing at the Inns reveals that the men admired balance, strength, and quick-footedness. Not everyone [for example, John Davies] had the body to meet such strict standards”. – Penelope Geng
 <br><br>
-image : Fencing receipt image
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/3997e504-9bec-40eb-bca8-bbed1014bd39"
-       label="Fencing receipt: MT/21/2/7/HT: payment to fencing professor M[onsieur] Philebois, dated 1653">
+       label="Fencing receipt image">
 
 ## 7 Sir John Fortescue, De Laudibus Legum Angliae (London, 1616)
 Fortescue’s De Laudibus Legum Angliae (in praise of the laws of England) is best known as a legal treatise originally written circa 1470 for Edward, Prince of Wales, son of Henry VI. It is on display here to show Fortescue’s account of the ‘soft skills’ the Innsmen were learning. In the chapter regarding “the disposition of the generall studie of the Lawes of England, and that the same in number of students passeth certaine vniuersities”, Fortescue writes that Innsmen were taught to “sing, & to exercise themselues in all kinde of harmony. There also they practise dauncing, & other Noble mens pastimes”. 
