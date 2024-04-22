@@ -48,7 +48,7 @@ A bastionado is a cane used to administer a blow, and originated from Turkey, wh
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bde9673d-abd9-475b-ae76-d06dffeccc8b"
        license="CC BY-NC-SA 4.0"
-       label="Illustration of two ‘bastionados’ © [Trustees of the British Museum](https://www.britishmuseum.org/collection/image/934770001)">
+       label="Illustration of two ‘bastionados’ © Trustees of the British Museum https://www.britishmuseum.org/collection/image/934770001">
 
 
 ## 5 Portrait of Richard Martin (1570-1618) MT/19/POR/464   
