@@ -120,18 +120,14 @@ Perhaps one of the most famous examples of their participation in literary cultu
 ## 11 Otto Melander, Jocorum atque seriorum (Frankfurt, 1617)
 Melander was a German lawyer who was critical of witchcraft trials. He had a sideline in publishing collections such as this, which is a compendium of jokes in Latin and humorous anecdotes. Blessin Adams has shown how early modern legal manuscript notebooks often contained non-legal texts alongside their more serious contents of moots and legal learning exercises, including ‘joco seria’ – humourous stories and jests. See for example Cambridge University Library’s manuscript CUL Dd.5.14.
 <br><br>
-image : Jocorum atque seriorum title page
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+image : Jocorum atque seriorum title page
 
 ## 12 Nikolaus Reusner Aenigmatographia (Frankfurt, 1599)
 This is a collection of riddles that was once owned by John Donne (1572-1631, Lincoln’s Inn), as can be seen by his signature and motto, ‘Per Rachel ho seruito, & no[n] per Leah’ (I have served Rachel, not Leah). Donne’s motto, from Petrarch’s reference to Genesis 29, reveals that he chose a contemplative life over an active one. Donne started life at Lincoln’s Inn as a metaphysical poet, but later became Dean of St. Paul’s Cathedral Reusner was a prolific writer, who published at least 83 works during his life. This book is also part of the Ashley bequest. Ashley had five other books by Reusner, including one on the Turks.
 <br><br>
-image: Reusner, Aenigmatographia – title page
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+image: Reusner, Aenigmatographia – title page
 
 ## 13 John Selden, Table-talk (London, 1696)
 As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. Table-talk was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
@@ -145,11 +141,11 @@ Image: Table-talk: https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;
 This collection of Greek plays by Aeschylus was translated and edited by Thomas Stanley (1625-1678). It was donated by him to Middle Temple Library in 1667. It consists of the complete Greek text, with a Latin translation of each play. Stanley was a poet and classical scholar who lived at Middle Temple, next to his close friend, fellow scholar and Royalist, Edward Sherburne (1618-1702). 
 Stanley published a number of works in his lifetime, including Poems and translations (1647), which includes a commendatory verses by Sherburne. 
 <br><br>
-image: Stanley image: © The Trustees of the British Museum. Link: https://www.britishmuseum.org/collection/image/1394239001
+Image © [The Trustees of the British Museum](https://www.britishmuseum.org/collection/image/1394239001)
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/ef1ebe8b-b64c-42b8-9a74-eeb765def85c"
-       license="CC The Trustees of the British Museum"
+       license="CC BY-NC-SA 4.0"
        label="Thomas Stanley">
 
 ## 15 Thomas Stanley, The history of philosophy in eight parts, (London, 1656) 
