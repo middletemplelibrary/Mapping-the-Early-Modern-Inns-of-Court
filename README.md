@@ -51,7 +51,6 @@ Image © [Trustees of the British Museum](https://www.britishmuseum.org/collecti
        license="CC BY-NC-SA 4.0"
        label="Illustration of two ‘bastionados’>
 
-
 ## 5 Portrait of Richard Martin (1570-1618) MT/19/POR/464   
 Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html))
 <br><br>
@@ -71,6 +70,7 @@ Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for
 ## 7 Sir John Fortescue, De Laudibus Legum Angliae (London, 1616)
 Fortescue’s De Laudibus Legum Angliae (in praise of the laws of England) is best known as a legal treatise originally written circa 1470 for Edward, Prince of Wales, son of Henry VI. It is on display here to show Fortescue’s account of the ‘soft skills’ the Innsmen were learning. In the chapter regarding “the disposition of the generall studie of the Lawes of England, and that the same in number of students passeth certaine vniuersities”, Fortescue writes that Innsmen were taught to “sing, & to exercise themselues in all kinde of harmony. There also they practise dauncing, & other Noble mens pastimes”. 
 <br><br>
+Read the full text on
 image : De Laudibus Legum Angliae : link to https://quod.lib.umich.edu/e/eebo/A01083.0001.001?view=toc for full text
 
 <param ve-image 
