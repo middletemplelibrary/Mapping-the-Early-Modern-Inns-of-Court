@@ -35,6 +35,7 @@ Innsmen enjoyed a variety of leisurely pursuits while at the Inns of Court, incl
 The Misfortunes of Arthur is a play “written in 1587 by Thomas Hughes, and other law students at Gray’s Inns, for performance before the Queen at Greenwich. In that venue, the Innsmen presented a prologue calling attention to their background and identity as law students, and thereby constructing for the queen an image of themselves as legal professionals: they are men whose legal training and serious dispositions make them central to the governance of the country”. – Jessica Winston
 <br><br>
 “Cultural, literary, and intellectual forms of play elevated Inns' members, while lower, disorderly forms debased them. Yet these modes of play were not wholly distinctive, nor mutually exclusive. Revels and high drama went hand-in-hand with feasting, drinking, and gaming … Rude, base, and at times libellous play was deliberately used by a group of serious-minded law students to develop auxiliary skills such as rhetoric, invention, and argument; to explore legal ethics and a broader kind of jurisprudence; and to put into practice humanist and medical methods of restorative play.” – Blessin Adams
+<br><br>
 
 <param ve-iframe
        src="https://archive.org/embed/misfortunesofart00hughrich">
@@ -45,6 +46,7 @@ Sir John Davies (1569-1626) was a poet and member of Middle Temple. He fell drun
 A bastionado is a cane used to administer a blow, and originated from Turkey, where it was reserved for beating someone on the soles of the feet. It is not known whether Davies focused only on Davies’s feet … 
 <br><br>
 Image © [Trustees of the British Museum](https://www.britishmuseum.org/collection/image/934770001). 
+<br><br>
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bde9673d-abd9-475b-ae76-d06dffeccc8b"
@@ -70,12 +72,11 @@ Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for
 ## 7 Sir John Fortescue, De Laudibus Legum Angliae (London, 1616)
 Fortescue’s De Laudibus Legum Angliae (in praise of the laws of England) is best known as a legal treatise originally written circa 1470 for Edward, Prince of Wales, son of Henry VI. It is on display here to show Fortescue’s account of the ‘soft skills’ the Innsmen were learning. In the chapter regarding “the disposition of the generall studie of the Lawes of England, and that the same in number of students passeth certaine vniuersities”, Fortescue writes that Innsmen were taught to “sing, & to exercise themselues in all kinde of harmony. There also they practise dauncing, & other Noble mens pastimes”. 
 <br><br>
-Read the full text on
-image : De Laudibus Legum Angliae : link to https://quod.lib.umich.edu/e/eebo/A01083.0001.001?view=toc for full text
+[De laudibus legum Angliæ full text](https://quod.lib.umich.edu/e/eebo/A01083.0001.001)
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
-
+<param ve-iframe
+       src="https://quod.lib.umich.edu/e/eebo/A01083.0001.001?rgn=main;view=fulltext">
+       
 ## 8 Daneau Lambert, Deux traitez nouveaux, tres-utiles pour ce temps … (Geneva, 1579)
 This book was part of the Robert Ashley bequest of 1641 which reinstated a library at Middle Temple. It is divided into two parts. The first is about witchcraft, and the second about the religious aspects of dice and card games. In 1628, Gray’s Inn decreed that “all playing at dice, cards, or otherwise, in the hall, buttery, or butler’s chamber” was forbidden, except for the twenty days at Christmas. Innsmen were loathe to obey such rules however. In 1730s the floor boards in Middle Temple Hall were replaced, revealing hundreds of pairs of dice were found, having fallen through floor joints over the years. 
 <br><br>
