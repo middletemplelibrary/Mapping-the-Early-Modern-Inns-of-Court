@@ -44,7 +44,7 @@ Sir John Davies (1569-1626) was a poet and member of Middle Temple. He fell drun
 <br><br>
 A bastionado is a cane used to administer a blow, and originated from Turkey, where it was reserved for beating someone on the soles of the feet. It is not known whether Davies focused only on Davies’s feet … 
 <br><br>
-Image © [Trustees of the British Museum](https://www.britishmuseum.org/collection/image/934770001)
+Image © [Trustees of the British Museum](https://www.britishmuseum.org/collection/image/934770001). 
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bde9673d-abd9-475b-ae76-d06dffeccc8b"
@@ -53,9 +53,8 @@ Image © [Trustees of the British Museum](https://www.britishmuseum.org/collecti
 
 
 ## 5 Portrait of Richard Martin (1570-1618) MT/19/POR/464   
-Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” (Early Stuart Libels: https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html)  
+Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html))
 <br><br>
-Image: Portrait of Richard Martin
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9d11d6f9-cb5f-4d03-9fd9-bd6d9054992d"
