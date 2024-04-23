@@ -3,9 +3,8 @@
 <param ve-config 
        title="Mapping the Early Modern Inns of Court"
        author="Middle Temple Library"
-       banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b64553ce-6580-4c18-a359-db91a24261c0"
+       banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/3efc0aa5-7326-464c-888b-0120d082cc70"
        layout="vertical">
-
 ## 
 Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns of Court.
 
