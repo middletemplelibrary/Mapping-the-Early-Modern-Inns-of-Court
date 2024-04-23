@@ -231,9 +231,11 @@ Image © [Trustees of the British Museum](https://www.britishmuseum.org/collecti
 ## 24 Seneca, Opera (1672)
 Seneca was a model orator and lawyer to Innsmen, who studied and translated his works. They were taught Senecan verse while still at school, and continued to study, and translate his works as adults. Seneca was a “classical version of the sort of rhetorician and politician that those at the universities and Inns of Court were trying to become” – Jessica Winston. This copy has a vellum binding decorated with a gold-tooled armorial device bearing the royal coat-of-arms, but its provenance remains unidentified. 
 
-<param ve-compare curtain url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" label="Seneca front binding" description="photograph">
+<param ve-image 
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" label="Seneca front binding" description="photograph">
 
-<param ve-compare url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bc7a3fe4-5b50-42a8-82b1-15bb5bc4d6a2" label="Seneca title page" description="photograph">
+<param ve-image 
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bc7a3fe4-5b50-42a8-82b1-15bb5bc4d6a2" label="Seneca title page" description="photograph">
 
 ## 25 Richard Mulcaster, Positions vvherin those primitiue circumstances be examined, which are necessarie for the training vp of children, either for skill in their booke, or health in their bodie (London, 1581) 
 Sir James Whitelocke (1570-1632, Middle Temple) wrote in his journal (later published as ‘Liber famelicus’) that his headmaster, Richard Mulcaster, recruited his students to act in plays that were performed for the court. Whitelocke wrote that he learned “good behaviour and audacitye” from acting these roles. This copy belonged to ‘Walter Hawgh’ (dates unknown), possibly the poet and official to the Archdeacon of Norwich. 
@@ -246,24 +248,20 @@ image: Mulcaster: title page
 
 ## 26 Christopher Saint German, The dialogue in English, betweene a doctor of diuinitie, and a student in the lawes of England (London, 1607). 
 Saint German (1460?-1540, Middle Temple), originally published this book in Latin in 1523. His book “popularized canonist learning on the nature and object of law, the religious and moral standards of law, the foundations of the common law and other issues regarding the jurisdiction of Parliament” (Law Book Exchange). It was an important work that went through multiple editions. This copy once belonged to a Henry Gardiner, dated 1609, and other owners, showing the continued popularity of the ‘dialogue’ to lawyers and students. 
-<br><br>
-Image: Saint German
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9e0342e7-5cda-483c-a132-8cd0b9f0982c">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9e0342e7-5cda-483c-a132-8cd0b9f0982c"
+       label="Saint German">
 
 ## 27 The moot book of Gray’s Inn (London, 1924)
 This illustration depicts the 1556 Gray’s Inn Hall screen before it was destroyed in WWII. A report was written for Henry VIII in approximately 1540 on the constitution of the Inns of Court and their form and order of study. Its authors stated that moots took place during vacations every “night after supper, and every fasting day immediately after” six o’clock. Moots at Gray’s Inn took place in Hall, at the cupboard, and in the library. At Inner Temple, they were also known to take place in the old library. 
-<br><br>
-Image: Gray’s Inn: screen photo in folder
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/1db56175-d62a-4d0a-b18e-6aac22b31cb2">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/1db56175-d62a-4d0a-b18e-6aac22b31cb2"
+       label="Gray's Inn Hall screen">
 
 ## 28 Jakob Omphalius, De elocutionis imitatione ac apparatu liber unus (Cologne, 1537)
 An early work on oratory and rhetoric, two key skills for barristers. This copy has contemporary marginalia, including a hand-written index, and notes on the verso of the title page, revealing how an early modern reader (but not necessarily a lawyer or Innsman) responded to Omphalius’s text.
-<br><br>
-Image: Omphalius title page
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/31043b2d-dd95-470e-8fef-638177904853"
@@ -297,8 +295,6 @@ George Calvert (1579/80-1632, Lincoln’s Inn) was in service to Sir Robert Ceci
 In 2021, Emily Stevenson and Lauren Working created an exhibition in the Library examining the global networks of trade and exploration, with a particular focus on Middle Temple. 
 <br><br>
 link: From Middle Temple to Manoa: Global networks at the Inns of Court booklet (Their publication can be downloaded via the QR code here). Located in L drive 2021 Displays TIDE
-<br><br>
-image: Hakluyt Principal Navigations title page
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/04b4bc44-e9b1-4161-97ee-0c1a4490a3b7"
@@ -309,16 +305,13 @@ This work is a description of Iran, Turkey, Venice, and India, and contains acco
 <br><br>
 Tana was the name which the Genoese gave to their factory at Azov at the mouth of the river Don, in Russia. The book also “includes Benedetto Ramberti's account of the Turkish Sultan's campaign against the Portuguese settlement of Diu in northern India in 1538”. 
 The famous dolphin and anchor printer’s device reveals that the book was printed by the Aldine press, and this is one of the very few travel books that the press published. 
-<br><br>
-Image:Viaggi
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/03170ade-b6d6-445c-9d2d-9725e085db7d">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/03170ade-b6d6-445c-9d2d-9725e085db7d"
+       label=Viaggi">
 
 ## 33 Daniel Browne, Browne 1624: A new almanacke and prognostication, for the yeare of our Lord God, 1624 (London, 1624)
 Almanacs provided a range of information for their users, including astrological and planetary charts. Many users, such as Robert Ashley, used them as diaries and personal calendars. In this copy, Ashley recorded that he lent a book about Italy to Sir Robert Sherley (1581-1628); it was never returned. Sherley lived in Persia for approximately eight years, in the service of Shah ‘Abbas, who sent him to Europe as an emissary. He returned to England in 1623, via a stint in Spain on behalf of the Shah. Along with his two brothers, Anthony and Thomas, the Sherley brothers “earned a reputation in their day in pamphlet and play as champions of Christendom against the Turk”. One of these plays, The Travels of the Three English Brothers was written in 1607, based on the three men’s exploits. It is referred to by Francis Beaumont (1584-1616 Inner Temple) in his The Knight of the Burning Pestle.
-<br><br>
-image : Browne almanac Ashley notes
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/f390a9fc-21a4-4a56-aef1-9386d1f0dc9c">
@@ -337,8 +330,6 @@ image: William Bullock title page
 This is a French translation of Historia general y natural de las Indias, first published in Toledo in 1526. As can be seen here, it has a maxim on the title page, which Robert Ashley has ascribed to Seneca: ‘Ille mihi vivere atque frui anima videtur, qui aliquo negotio intentus praeclari facinoris aut artis bonae famam quaerit’ (only that man appears to me to be alive and make the most of life who by devoting himself to some enterprise, seeks fame for a glorious deed or good practice). The line actually appears in Sallust’s ‘The war with Catiline’. There is a pre-Ashley inscription on the title page as well, dated 1593: ‘Assai ben balla, a chi fortuna suona’. 
 <br><br>
 Fernández de Oviedo y Valdés (1478-1557) was a Spanish bureaucrat and chronicler who spent time in what is now Panama and Nicaragua. All editions of this work are illustrated with woodcuts, some of which are based on his own illustrations. They include early depictions of a hammock, a pineapple and plantain leaves. 
-<br><br>
-image: Fernandez
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/3033d88d-fff0-4316-979b-386861ee0d97">
@@ -346,10 +337,11 @@ image: Fernandez
 ## 36 Hessel Gerritsz, Descriptio ac delineatio geographica detectionis freti, sive, Transitus ad Occasum, suprà terras Americanas, in Chinam atq[ue] Iaponem ducturi, recens investigati ab m. Henrico Hudsono Anglo (Amsterdam, 1612)
 Gerritsz (1581-1632) was a Dutch cartographer. This is a Latin translation by Reinier Telle of Beschryvinghe vander Samoyeden landt in Tartarien. Gerritsz’s work discusses important exploration and commercial topics for the time: the Northwest Passage, Henry Hudson’s ill-fated voyage to Canada, Siberia, and the austral lands. The Latin edition differed slightly from its original Dutch, making Hudson’s voyage a more prominent feature. Facing the text regarding Henry Hudson (d. 1611), Robert Ashley has copied information from the cartouches in the map of North America drawn by Henry Briggs (1561-1630). The Briggs map may have circulated prior to its inclusion in Purchas his pilgrimes (London, 1626). This publication contains the first published account of Hudson’s exploration of the northern part of what is now Canada. Hudson, like his contemporaries, was obsessed with finding a Northwest passage to Asia. 
 <br><br>
-image Briggs map: https://www.flickr.com/photos/manitobamaps/1194604271/ Include the link, and credit: Map of ‘The north part of America by Henry Briggs 1625’, courtesy Manitoba Historical Maps Flickr
-
+Image courtesy of [Manitoba Historical Maps Flickr](https://www.flickr.com/photos/manitobamaps/1194604271/ )
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/c611b232-c522-4368-ab2b-d72bd1b1180c">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/c611b232-c522-4368-ab2b-d72bd1b1180c"
+       label="Map of ‘The north part of America by Henry Briggs 1625’, courtesy Manitoba Historical Maps Flickr"
+       license="CC BY 2.0">
 
 ## 37 Robert Hues, Traicté des globes (Paris, 1618) 
 Robert Hues (1553 - 1632) was a renowned mathematician and geographer. While studying at the University of Oxford he was introduced to Walter Raleigh and his circle of sailors and navigators through his friend Richard Hakluyt. He became very interested in navigation and accompanied Thomas Cavendish on his circumnavigation of the world in 1586-1588. He may also have accompanied Walter Raleigh on his trip to Virginia in 1585.
