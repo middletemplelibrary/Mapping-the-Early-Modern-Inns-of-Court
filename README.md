@@ -19,9 +19,9 @@ This exhibition highlights some of the areas that the group has explored in thei
 <br><br>
 The text in the caption cards includes submissions from some of the people involved in the project: Blessin Adams, Penelope Geng, Jackie Watson, and Jessica Winston. Contributions have also been made by Wilfrid Prest and Sylvia Sumira. 
 <br><br>
-A collection of essays produced by the project, Mapping the Early Modern Inns of Court, is forthcoming from Palgrave. For more information and to sign up for the mailing list, click [here](https://mappinginns.wordpress.com/).
+A collection of essays produced by the project, Mapping the Early Modern Inns of Court, is forthcoming from Palgrave. For more information and to sign up for the mailing list, click [here.](https://mappinginns.wordpress.com/)
 <br><br>
-Read the Archive of the month [September 2021: Books, Bread and Beer - A History of Shops and Taverns at the Middle Temple](https://www.middletemple.org.uk/archive-history/archive-month/september-2021-books-bread-and-beer).
+Read the Archive of the month [September 2021: Books, Bread and Beer - A History of Shops and Taverns at the Middle Temple.](https://www.middletemple.org.uk/archive-history/archive-month/september-2021-books-bread-and-beer)
 
 <param ve-image 
       label="Image of Temple Church with shops in front (MT/19/ILL/F/F11/12)"
@@ -43,7 +43,7 @@ Sir John Davies (1569-1626) was a poet and member of Middle Temple. He fell drun
 <br><br>
 A bastionado is a cane used to administer a blow, and originated from Turkey, where it was reserved for beating someone on the soles of the feet. It is not known whether Davies focused only on Davies’s feet … 
 <br><br>
-Image © [Trustees of the British Museum](https://www.britishmuseum.org/collection/image/934770001). 
+Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collection/image/934770001)
 <br><br>
 
 <param ve-image 
@@ -52,7 +52,7 @@ Image © [Trustees of the British Museum](https://www.britishmuseum.org/collecti
        label="Illustration of two ‘bastionados'">
 
 ## 5 Portrait of Richard Martin (1570-1618) MT/19/POR/464   
-Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html))
+Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html)).
 <br><br>
 
 <param ve-image 
@@ -70,7 +70,7 @@ Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for
 ## 7 Sir John Fortescue, De Laudibus Legum Angliae (London, 1616)
 Fortescue’s De Laudibus Legum Angliae (in praise of the laws of England) is best known as a legal treatise originally written circa 1470 for Edward, Prince of Wales, son of Henry VI. It is on display here to show Fortescue’s account of the ‘soft skills’ the Innsmen were learning. In the chapter regarding “the disposition of the generall studie of the Lawes of England, and that the same in number of students passeth certaine vniuersities”, Fortescue writes that Innsmen were taught to “sing, & to exercise themselues in all kinde of harmony. There also they practise dauncing, & other Noble mens pastimes”. 
 <br><br>
-[De laudibus legum Angliæ full text](https://quod.lib.umich.edu/e/eebo/A01083.0001.001)
+[De laudibus legum Angliæ full text.](https://quod.lib.umich.edu/e/eebo/A01083.0001.001)
 
 <param ve-iframe
        src="https://quod.lib.umich.edu/e/eebo/A01083.0001.001?rgn=main;view=fulltext">
@@ -138,7 +138,7 @@ As can be seen here, Selden writes that “Popish books teach and inform; what w
 This collection of Greek plays by Aeschylus was translated and edited by Thomas Stanley (1625-1678). It was donated by him to Middle Temple Library in 1667. It consists of the complete Greek text, with a Latin translation of each play. Stanley was a poet and classical scholar who lived at Middle Temple, next to his close friend, fellow scholar and Royalist, Edward Sherburne (1618-1702). 
 Stanley published a number of works in his lifetime, including Poems and translations (1647), which includes a commendatory verses by Sherburne. 
 <br><br>
-Image © [The Trustees of the British Museum](https://www.britishmuseum.org/collection/image/1394239001)
+Image © [The Trustees of the British Museum.](https://www.britishmuseum.org/collection/image/1394239001)
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/ef1ebe8b-b64c-42b8-9a74-eeb765def85c"
@@ -219,7 +219,7 @@ In an important book on Law as Performance, Julie Stone Peters has shown that le
 <br><br>
 Learning oratory and rhetorical skills came first from the Innsmen’s university education, and even their grammar school training. Many grammar school masters used theatre techniques to train performance skills to their students. Robert Ashley acted in comedies as a young schoolboy, and was also taught to read Cicero, Quintilian, Seneca, and Ovid. He, like his Innsmen contemporaries, regularly participated in ‘disputations’ while at Oxford, honing his argumentative skills. 
 <br><br>
-Image © [Trustees of the British Museum](https://www.britishmuseum.org/collection/image/265705001)
+Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collection/image/265705001)
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9adca26e-9995-47f8-a0f7-e9e20722564d"
@@ -335,7 +335,7 @@ Fernández de Oviedo y Valdés (1478-1557) was a Spanish bureaucrat and chronicl
 ## 36 Hessel Gerritsz, Descriptio ac delineatio geographica detectionis freti, sive, Transitus ad Occasum, suprà terras Americanas, in Chinam atq[ue] Iaponem ducturi, recens investigati ab m. Henrico Hudsono Anglo (Amsterdam, 1612)
 Gerritsz (1581-1632) was a Dutch cartographer. This is a Latin translation by Reinier Telle of Beschryvinghe vander Samoyeden landt in Tartarien. Gerritsz’s work discusses important exploration and commercial topics for the time: the Northwest Passage, Henry Hudson’s ill-fated voyage to Canada, Siberia, and the austral lands. The Latin edition differed slightly from its original Dutch, making Hudson’s voyage a more prominent feature. Facing the text regarding Henry Hudson (d. 1611), Robert Ashley has copied information from the cartouches in the map of North America drawn by Henry Briggs (1561-1630). The Briggs map may have circulated prior to its inclusion in Purchas his pilgrimes (London, 1626). This publication contains the first published account of Hudson’s exploration of the northern part of what is now Canada. Hudson, like his contemporaries, was obsessed with finding a Northwest passage to Asia. 
 <br><br>
-Image courtesy of [Manitoba Historical Maps Flickr](https://www.flickr.com/photos/manitobamaps/1194604271/ )
+Image courtesy of [Manitoba Historical Maps Flickr.](https://www.flickr.com/photos/manitobamaps/1194604271/ )
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/c611b232-c522-4368-ab2b-d72bd1b1180c"
        label="Map of ‘The north part of America by Henry Briggs 1625’, courtesy Manitoba Historical Maps Flickr"
