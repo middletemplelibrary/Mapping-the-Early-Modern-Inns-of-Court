@@ -3,17 +3,15 @@
 <param ve-config 
        title="Mapping the Early Modern Inns of Court"
        author="Middle Temple Library"
-       banner="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/dc540604-bb85-409f-a8cb-54bc2103359b"
+       banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bffe730b-cf8f-416a-89a8-1368abd5b248">
        layout="vertical">
 
 ## 1
 Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns of Court.
 
 <param ve-image 
-      label="The Temple in 1671 (MT/19/ILL/D/D8/2)"
-      url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bffe730b-cf8f-416a-89a8-1368abd5b248">
-
-
+       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+       
 ## 2 Introduction: Mapping the Early Modern Inns of Court
 The early modern Inns of Court have long been recognised as an intellectual and cultural hub. ‘Mapping the Early Modern Inns of Court’ is an initiative that brings together an international community of researchers from a variety of disciplines working in this field. They run seminars, a blog, and provide a platform where researchers can share their work and bring published material to everyone’s attention. 
 <br><br>
