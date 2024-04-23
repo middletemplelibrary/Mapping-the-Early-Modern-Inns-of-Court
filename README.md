@@ -6,7 +6,7 @@
        banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bffe730b-cf8f-416a-89a8-1368abd5b248"
        layout="vertical">
 
-## 1
+## 
 Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns of Court.
 
 <param ve-image 
