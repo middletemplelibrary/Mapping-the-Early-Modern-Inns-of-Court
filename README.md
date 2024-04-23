@@ -3,9 +3,8 @@
 <param ve-config 
        title="Mapping the Early Modern Inns of Court"
        author="Middle Temple Library"
-       banner="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/dc540604-bb85-409f-a8cb-54bc2103359b"
+       banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/54f6c993-26ee-4c1c-a361-c590a27763ee"
        layout="vertical">
-
 ## 1
 Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns of Court.
 
