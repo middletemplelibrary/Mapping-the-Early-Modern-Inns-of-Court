@@ -3,7 +3,7 @@
 <param ve-config 
        title="Mapping the Early Modern Inns of Court"
        author="Middle Temple Library"
-       banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bffe730b-cf8f-416a-89a8-1368abd5b248"
+       banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b64553ce-6580-4c18-a359-db91a24261c0"
        layout="vertical">
 
 ## 
