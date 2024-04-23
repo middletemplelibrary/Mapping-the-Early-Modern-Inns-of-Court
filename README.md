@@ -27,6 +27,10 @@ Read the Archive of the month [September 2021: Books, Bread and Beer - A History
       label="Image of Temple Church with shops in front (MT/19/ILL/F/F11/12)"
       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/25e241cb-e140-43ed-801d-c98dd04a84af">
 
+<param ve-image 
+      label="Chambers at Clifford’s Inn, 17th century (MT/19/ILL/A/A3/34)"
+      url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/559286a7-f805-4544-b0f2-22bcc4c1e5e1">
+
 ## 3 Recreation  
 Innsmen enjoyed a variety of leisurely pursuits while at the Inns of Court, including dancing, fencing, gambling, and music. Revelling was also popular amongst Innsmen, as playgoers, performers and as authors of plays. 
 <br><br>
@@ -64,8 +68,7 @@ Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for
 <br><br>
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/3997e504-9bec-40eb-bca8-bbed1014bd39"
-       label="Fencing receipt image">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/3997e504-9bec-40eb-bca8-bbed1014bd39">
 
 ## 7 Sir John Fortescue, De Laudibus Legum Angliae (London, 1616)
 Fortescue’s De Laudibus Legum Angliae (in praise of the laws of England) is best known as a legal treatise originally written circa 1470 for Edward, Prince of Wales, son of Henry VI. It is on display here to show Fortescue’s account of the ‘soft skills’ the Innsmen were learning. In the chapter regarding “the disposition of the generall studie of the Lawes of England, and that the same in number of students passeth certaine vniuersities”, Fortescue writes that Innsmen were taught to “sing, & to exercise themselues in all kinde of harmony. There also they practise dauncing, & other Noble mens pastimes”. 
@@ -80,8 +83,7 @@ This book was part of the Robert Ashley bequest of 1641 which reinstated a libra
 <br><br>
 
 <param ve-iframe
-       src="https://gallica.bnf.fr/ark:/12148/bpt6k84824s/f1.image.mini"
-       label="Daneau Lambert, Deux traitez nouveaux, tres-utiles pour ce temps">
+       src="https://gallica.bnf.fr/ark:/12148/bpt6k84824s/f1.image.mini">
 
 ## 9 An unsigned letter, potentially to Master Treasurer, MT/3/MEM/24, 1667/8
 This copy of an anonymous letter addressed to Sir Geoffrey Palmer, ‘Mr Att[orney] Generall’ is dated 3 January 1668 by the modern Gregorian calendar, which starts each new year on 1 January, not 25 March as in the pre-1752 Julian calendar. So it was written just 14 months after the September 1666 Great Fire of London, which destroyed most of the medieval city, spreading almost to the Temple Church. This disaster was seen by many contemporaries, including the letter’s author, as God’s punishment for the sins of the nation in general and Londoners in particular.
@@ -96,8 +98,7 @@ Its matter of much greif to good men and in itselfe a shame that such gameing is
 Jan. 3. 67. 									Your servant
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/2cd8c8e4-2416-45cb-a7c7-566ecc117305"
-       label="Letter MT/3/MEM/24 ">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/2cd8c8e4-2416-45cb-a7c7-566ecc117305">
 
 ## 10 Literary Culture at the Early Modern Inns of Court 
 “Many early modern poets and playwrights were also members of the Inns of Court, and these authors shaped the development of key genres of the English Renaissance, especially lyric poetry, dramatic tragedy, satire, and masque”. The Inns’ geographical placement between Westminster and the City meant that Innsmen were well-placed to take advantage of London’s literary pastimes, as spectators and participants. “Poetry, translation, and performance were recreation pastimes [and] these activities also defined and elevated the status of” Innsmen as active participants in England’s legal world. – Jessica Winston, Lawyers at play
@@ -131,8 +132,7 @@ image: Reusner, Aenigmatographia – title page
 As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. Table-talk was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
 
 <param ve-iframe
-      src="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a59095.0001.001;node=A59095.0001.001:12;seq=36;submit=Go;type=simple;vid=55794;q1=popish%20books;page=root;view=text"
-      label="John Selden, Table-talk (London, 1696)">
+      src="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a59095.0001.001;node=A59095.0001.001:12;seq=36;submit=Go;type=simple;vid=55794;q1=popish%20books;page=root;view=text">
       
 ## 14 Aeschyli tragoediae septem (London, 1664)
 This collection of Greek plays by Aeschylus was translated and edited by Thomas Stanley (1625-1678). It was donated by him to Middle Temple Library in 1667. It consists of the complete Greek text, with a Latin translation of each play. Stanley was a poet and classical scholar who lived at Middle Temple, next to his close friend, fellow scholar and Royalist, Edward Sherburne (1618-1702). 
@@ -202,8 +202,7 @@ Members of Middle and Inner Temple had to sign this book to show that they had t
 As per the title page, this tract was written by ‘C.A.’ (that is, John Sweet) “to his friend P.R. student of the lawes in the Middle Temple”. The ‘Dalmatian apostata’ is a reference to Marco Antonio de Dominis (1560-1604), who fled from the Popish dominions to England during the reign of James I, where he published a series of books against the spiritual primacy of the See of Rome. Sweet was an English Jesuit, who wrote this tract in response to de Dominis’s De Republica Ecclesiastica. It was printed by the English College Press in Saint-Omer, France. The Press was part of the English Jesuit College, established by the Company of Jesuits to train English Jesuit missionaries. The identity of ‘P.R.’ is unknown, but recusants were known to reside at the Inns in the early modern period. 
 
 <param ve-iframe
-       src="https://archive.org/embed/bim_early-english-books-1475-1640_monsigr-fate-voi-or-a_sweet-j_1617" 
-       label="John Sweet, Monsig[neu]r fate voi. Or A discovery of the Dalmatian apostata (Saint-Omer, 1617)">
+       src="https://archive.org/embed/bim_early-english-books-1475-1640_monsigr-fate-voi-or-a_sweet-j_1617">
 
 ## 22 William Crashaw, Ad Seuerinum Binnium Louaniensem theologum Epistola commonitoria super conciliorum generalium editione ab ipso nuper adornata (London, 1624)  
 William Crashaw (1572-1626) was not only the preacher at Temple Church, but also a poet and bibliophile, who amassed a large collection of books while living at the Temple. He published a number of works in his lifetime, including this series of letters to Severin Binius (1573-1641) on the religious aspects of authority. In 1613, Crashaw attempted to sell his library to the Inn, but was turned down. His letter mentions “one of ye finest paire of globes in Englande”, a possible reference to the Molyneux Globes, but no further evidence exists regarding the Globes’ provenance. 
@@ -248,8 +247,7 @@ image: Mulcaster: title page
 Saint German (1460?-1540, Middle Temple), originally published this book in Latin in 1523. His book “popularized canonist learning on the nature and object of law, the religious and moral standards of law, the foundations of the common law and other issues regarding the jurisdiction of Parliament” (Law Book Exchange). It was an important work that went through multiple editions. This copy once belonged to a Henry Gardiner, dated 1609, and other owners, showing the continued popularity of the ‘dialogue’ to lawyers and students. 
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9e0342e7-5cda-483c-a132-8cd0b9f0982c"
-       label="Saint German">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9e0342e7-5cda-483c-a132-8cd0b9f0982c">
 
 ## 27 The moot book of Gray’s Inn (London, 1924)
 This illustration depicts the 1556 Gray’s Inn Hall screen before it was destroyed in WWII. A report was written for Henry VIII in approximately 1540 on the constitution of the Inns of Court and their form and order of study. Its authors stated that moots took place during vacations every “night after supper, and every fasting day immediately after” six o’clock. Moots at Gray’s Inn took place in Hall, at the cupboard, and in the library. At Inner Temple, they were also known to take place in the old library. 
@@ -262,9 +260,8 @@ This illustration depicts the 1556 Gray’s Inn Hall screen before it was destro
 An early work on oratory and rhetoric, two key skills for barristers. This copy has contemporary marginalia, including a hand-written index, and notes on the verso of the title page, revealing how an early modern reader (but not necessarily a lawyer or Innsman) responded to Omphalius’s text.
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/31043b2d-dd95-470e-8fef-638177904853"
-       label="Omphalius title page">
-
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/31043b2d-dd95-470e-8fef-638177904853">
+       
 ## 29 William Fulbecke, A Direction or preparatiue to the study of the Lawe (London, 1620)
 This copy also has contemporary marginalia, and signs of previous ownership made by one ‘John Kent’. The book is open to show what qualities a boy needs to study the law: “great regard of his speech”, and the ability to “deliver his opinion or argument in convenient and orderly sort, not after a rude confused and impolite manner”. Plus ça change! 
 <br><br>
@@ -305,8 +302,7 @@ Tana was the name which the Genoese gave to their factory at Azov at the mouth o
 The famous dolphin and anchor printer’s device reveals that the book was printed by the Aldine press, and this is one of the very few travel books that the press published. 
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/03170ade-b6d6-445c-9d2d-9725e085db7d"
-       label=Viaggi">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/03170ade-b6d6-445c-9d2d-9725e085db7d">
 
 ## 33 Daniel Browne, Browne 1624: A new almanacke and prognostication, for the yeare of our Lord God, 1624 (London, 1624)
 Almanacs provided a range of information for their users, including astrological and planetary charts. Many users, such as Robert Ashley, used them as diaries and personal calendars. In this copy, Ashley recorded that he lent a book about Italy to Sir Robert Sherley (1581-1628); it was never returned. Sherley lived in Persia for approximately eight years, in the service of Shah ‘Abbas, who sent him to Europe as an emissary. He returned to England in 1623, via a stint in Spain on behalf of the Shah. Along with his two brothers, Anthony and Thomas, the Sherley brothers “earned a reputation in their day in pamphlet and play as champions of Christendom against the Turk”. One of these plays, The Travels of the Three English Brothers was written in 1607, based on the three men’s exploits. It is referred to by Francis Beaumont (1584-1616 Inner Temple) in his The Knight of the Burning Pestle.
