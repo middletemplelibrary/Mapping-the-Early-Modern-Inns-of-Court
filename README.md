@@ -230,6 +230,12 @@ Seneca was a model orator and lawyer to Innsmen, who studied and translated his 
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" label="Seneca front binding" description="photograph" style="transform: rotate(90deg);">
+       <style>
+    .rotate-image {
+        transform: rotate(90deg);
+    }
+</style>
+<img src="="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" alt="Rotated Image" class="rotate-image">
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bc7a3fe4-5b50-42a8-82b1-15bb5bc4d6a2" label="Seneca, Opera, added title page" description="photograph">
