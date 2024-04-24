@@ -204,7 +204,7 @@ As per the title page, this tract was written by ‘C.A.’ (that is, John Sweet
 <param ve-iframe
        src="https://archive.org/embed/bim_early-english-books-1475-1640_monsigr-fate-voi-or-a_sweet-j_1617">
 
-## 22 William Crashaw, Ad Seuerinum Binnium Louaniensem theologum Epistola commonitoria super conciliorum generalium editione ab ipso nuper adornata (London, 1624)  
+## 22 William Crashaw (1572-1626)
 William Crashaw (1572-1626) was not only the preacher at Temple Church, but also a poet and bibliophile, who amassed a large collection of books while living at the Temple. He published a number of works in his lifetime, including this series of letters to Severin Binius (1573-1641) on the religious aspects of authority. In 1613, Crashaw attempted to sell his library to the Inn, but was turned down. His letter mentions “one of ye finest paire of globes in Englande”, a possible reference to the Molyneux Globes, but no further evidence exists regarding the Globes’ provenance. 
 
 <param ve-image 
@@ -229,10 +229,13 @@ Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collect
 Seneca was a model orator and lawyer to Innsmen, who studied and translated his works. They were taught Senecan verse while still at school, and continued to study, and translate his works as adults. Seneca was a “classical version of the sort of rhetorician and politician that those at the universities and Inns of Court were trying to become” – Jessica Winston. This copy has a vellum binding decorated with a gold-tooled armorial device bearing the royal coat-of-arms, but its provenance remains unidentified. 
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" label="Seneca front binding" description="photograph">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" 
+       label="Seneca front binding"      
+       description="photograph"
+       style="transform: rotate(90deg);">
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bc7a3fe4-5b50-42a8-82b1-15bb5bc4d6a2" label="Seneca title page" description="photograph">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bc7a3fe4-5b50-42a8-82b1-15bb5bc4d6a2" label="Seneca, Opera, added title page" description="photograph">
 
 ## 25 Richard Mulcaster, Positions vvherin those primitiue circumstances be examined, which are necessarie for the training vp of children, either for skill in their booke, or health in their bodie (London, 1581) 
 Sir James Whitelocke (1570-1632, Middle Temple) wrote in his journal (later published as ‘Liber famelicus’) that his headmaster, Richard Mulcaster, recruited his students to act in plays that were performed for the court. Whitelocke wrote that he learned “good behaviour and audacitye” from acting these roles. This copy belonged to ‘Walter Hawgh’ (dates unknown), possibly the poet and official to the Archdeacon of Norwich. 
