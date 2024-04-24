@@ -229,12 +229,10 @@ Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collect
 Seneca was a model orator and lawyer to Innsmen, who studied and translated his works. They were taught Senecan verse while still at school, and continued to study, and translate his works as adults. Seneca was a “classical version of the sort of rhetorician and politician that those at the universities and Inns of Court were trying to become” – Jessica Winston. This copy has a vellum binding decorated with a gold-tooled armorial device bearing the royal coat-of-arms, but its provenance remains unidentified. 
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" label="Seneca front binding" description="photograph">
-       <style>
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" label="Seneca front binding" description="photograph"
     .rotate-image {
         transform: rotate(90deg);
-    }
-</style>
+    }>
 <img src="="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b0939f2e-2e3f-4c40-9df5-77343f0a8fa1" alt="Rotated Image" class="rotate-image">
 
 <param ve-image 
