@@ -171,11 +171,11 @@ This spine label was found in one of the Library’s legal manuscripts (MS2O), a
 After Mary I died and Elizabeth I became Queen, the 1559 Act of Uniformity made it compulsory to use the Book of Common Prayer in every church from 24 June 1559, and to attend church once a week, making it almost impossible for Catholics to practice their faith. Despite this, in 1577 the Privy Council accused the Inns of Court of being “greatlie infected with Poperie”. In 1581 a correspondent wrote to Sir William Cecil that “Papists are suffered at the Inns of Court”. Two such ‘Papists’ were Edmund Plowden (1518-1585, Middle Temple) and Sir Thomas Tresham (1543-1605, Middle Temple). 
 <br><br>
 Attempts were made in the late sixteenth-century to force the Inns to conform, and in 1569, nineteen men were ordered to be expelled from their Inn. In 1577 Inner Temple drew up a list of 60 of its members suspected of recusancy. One of these, Richard Carewe, appears in the 1594/5 Recusant Rolls. Despite these attempts, Catholics continued to live at the Inns, protected in many ways by the their status as professional legal societies made up of very influential people. 
-<br><br>
-Use any image no. 18-22
 
 <param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9b91b2c7-9684-4844-888f-c258450f21a4"
+       label:"<i>Recusants order, 1641, MT/1/MIS/33</i>
+An order of the House of Commons in May 1641 obliged all men to swear an oath of allegiance to the Protestant religion. In response, the four Inns of Court had to search for recusants dwelling at the Inns, including at the Inns of Chancery, and expel those who were found.">
 
 ## 18 John Donne, <cite>Pseudo-Martyr</cite> (London, 1610)
 In response to the Gunpowder Plot, in 1606 the Oath of Allegiance was proclaimed in law, requiring all Catholics to swear an allegiance to James I, not the Pope. Many Catholics refused. John Donne’s <cite>Pseudo-Martyr</cite> was written as “an exercise in religious polemic, designed to convince an English Protestant readership that even someone with personal sympathies for Catholics can find strong arguments against their refusal to take the” Oath. Donne of course was famously raised a Catholic, and the exact date of his conversion to Protestantism is unknown, but it was at least by 1601, when he was married in a Church of England ceremony. He was for a time secretary (like Robert Ashley) to Sir Thomas Egerton (1540-1617, Lincoln’s Inn), a known recusant. 
