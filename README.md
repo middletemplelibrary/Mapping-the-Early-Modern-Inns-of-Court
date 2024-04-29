@@ -347,4 +347,4 @@ image: Hues title page
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 ##
-This exhibition runs in Middle Temple Library from May to August 2024. For more information about the library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
+This exhibition runs in Middle Temple Library from May to August 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
