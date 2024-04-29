@@ -288,7 +288,7 @@ John Winthrop (1606-1676, Inner Temple) travelled fairly extensively, including 
 <br><br>
 George Calvert (1579/80-1632, Lincoln’s Inn) was in service to Sir Robert Cecil, and in 1610/1611 gathered intelligence on the continent for him. Calvert was an early investor in the Virginia Company and East India Company, and established a colony in Newfoundland in 1621, which he visited in 1627. He also tried to establish a colony in Virginia, but for various reasons was unsuccessful. He converted to Catholicism in 1624. 
 <br><br>
-In 2021, Emily Stevenson and Lauren Working created an exhibition in the Library examining the global networks of trade and exploration, with a particular focus on Middle Temple. Read the publication: [From Middle Temple to Manoa: Global networks at the Inns of Court.](https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/files/15146657/Booklet.pdf)
+In 2021, Emily Stevenson and Lauren Working created an exhibition in the Library examining the global networks of trade and exploration, with a particular focus on Middle Temple. Read the publication: [From Middle Temple to Manoa: Global networks at the Inns of Court.](https://www.tideproject.uk/wp-content/uploads/2021/09/Middle-Temple-Catalogue_ebook_final.pdf)
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/04b4bc44-e9b1-4161-97ee-0c1a4490a3b7"
