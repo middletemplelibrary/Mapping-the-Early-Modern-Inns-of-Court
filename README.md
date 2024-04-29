@@ -174,7 +174,7 @@ Attempts were made in the late sixteenth-century to force the Inns to conform, a
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9b91b2c7-9684-4844-888f-c258450f21a4"
-       label:"<i>Recusants order, 1641, MT/1/MIS/33</i>
+       label="<i>Recusants order, 1641, MT/1/MIS/33</i>
 An order of the House of Commons in May 1641 obliged all men to swear an oath of allegiance to the Protestant religion. In response, the four Inns of Court had to search for recusants dwelling at the Inns, including at the Inns of Chancery, and expel those who were found.">
 
 ## 18 John Donne, <cite>Pseudo-Martyr</cite> (London, 1610)
