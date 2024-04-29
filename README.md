@@ -12,7 +12,7 @@ Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns o
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 
-## 2 Introduction: Mapping the Early Modern Inns of Court
+## 2 <emp> Introduction: Mapping the Early Modern Inns of Court </emp>
 The early modern Inns of Court have long been recognised as an intellectual and cultural hub. ‘Mapping the Early Modern Inns of Court’ is an initiative that brings together an international community of researchers from a variety of disciplines working in this field. They run seminars, a blog, and provide a platform where researchers can share their work and bring published material to everyone’s attention. 
 <br><br>
 This exhibition highlights some of the areas that the group has explored in their seminars and publications: recreation (fencing, revelling, and gaming); literary culture at the Inns; religion and preaching; learning the law and verbal skills; travel and exploration endeavours. 
@@ -53,9 +53,9 @@ Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collect
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bde9673d-abd9-475b-ae76-d06dffeccc8b"
        license="CC BY-NC-SA 4.0"
-       label="Illustration of two ‘bastionados'">
+       label="<emp>Illustration of two ‘bastionados'</emp>">
 
-## 5 Portrait of Richard Martin (1570-1618) MT/19/POR/464   
+## 5 <emp> Portrait of Richard Martin (1570-1618) MT/19/POR/464 </emp> 
 Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html)).
 <br><br>
 
@@ -63,7 +63,7 @@ Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9d11d6f9-cb5f-4d03-9fd9-bd6d9054992d"
        label="Portrait of Richard Martin (1570-1618) MT/19/POR/464">
 
-## 6 Fencing receipt: MT/21/2/7/HT: payment to fencing professor M[onsieur] Philebois, dated 1653
+## 6 <emp> Fencing receipt: MT/21/2/7/HT: payment to fencing professor M[onsieur] Philebois, dated 1653 </emp>
 “Those who dedicated themselves to the study of law at the Inns valued such intellectual traits as a keen memory and verbal playfulness. In addition to his supreme intelligence, an Innsman in this period also cultivated a courtly physique. Ongoing research work on the performance of dancing and fencing at the Inns reveals that the men admired balance, strength, and quick-footedness. Not everyone [for example, John Davies] had the body to meet such strict standards”. – Penelope Geng
 <br><br>
 
@@ -85,29 +85,29 @@ This book was part of the Robert Ashley bequest of 1641 which reinstated a libra
 <param ve-iframe
        src="https://gallica.bnf.fr/ark:/12148/bpt6k84824s/f1.image.mini">
 
-## 9 An unsigned letter, potentially to Master Treasurer, MT/3/MEM/24, 1667/8
+## 9 <emp> An unsigned letter, potentially to Master Treasurer, MT/3/MEM/24, 1667/8 </emp>
 This copy of an anonymous letter addressed to Sir Geoffrey Palmer, ‘Mr Att[orney] Generall’ is dated 3 January 1668 by the modern Gregorian calendar, which starts each new year on 1 January, not 25 March as in the pre-1752 Julian calendar. So it was written just 14 months after the September 1666 Great Fire of London, which destroyed most of the medieval city, spreading almost to the Temple Church. This disaster was seen by many contemporaries, including the letter’s author, as God’s punishment for the sins of the nation in general and Londoners in particular.
 <br><br>
 While the Church of England had returned with Charles II in 1660, puritans (radical protestants) were still thick on the ground, not least in London. Disapproving of the habitual student gaming with cards and dice over the twelve days of Christmas in the halls of the Inns of Court, they regarded mixed dancing on Saturday night and into Sunday morning with real horror. This profanation of the Lord’s Day clearly required — if not the dire retribution meted out by Phineas in the Old Testament (Numbers, 25.7-11) — at very least a file of soldiers to bar revellers from the Middle Temple Hall. 
 <br><br>
 Wilfrid Prest wrote the caption above, and produced this transcript of the letter:
 <br><br>
-Worthy Sir
+<emp>Worthy Sir
 Its matter of much greif to good men and in itselfe a shame that such gameing is permitted in the Temples and danceing on the Lords day at nights what cann the consequences hereof be but further Judgment from God upon this poore shattered Cittie & perplexed Nation and debauching of youth, Oh who would have thought that the late Judgment of fire spared these 2 Halls & Societyes for this end? is this our requitall of God: dear Sir consider it, you are a greate parte of this Society of the Middle Temple, your authority will reach far, you have a great esteeme in the hearts of most, (I speake my owne heart, ye Lord Almighty knowes it) and ‘tis your due, who knowes but if yow would use your endeavour to suppreses this wickednesse you may prevaile and procure a blessing O stand up as Phineas did, and stay gods hand, his rod is still over us, shall none be found to appeare for God in such a day as this? are all our deliverances & mercys forgotten allready? God forbid, pray Sir concerne your selfe at this time in this matter if it be too much for yow at this time to stop ye gameing yet prevent if possible further danceing on the Lords dayes at nights doe your utmost, set some soldiers at the Hall dores if nothing else will doe, tis better you displease the Students, then that God be displeased & dishonored as he is by it every moment, deare Sir remember there is a day of account hastening on apace & what can you and your Brethren the Benchers of these Societies say and how can you and they answeare God then & your consciences in the meane time, that will stand still and see such wicked and ungodly doeinges in your howses as now there are? Consider it I beseech you, and the Lord give you that courage & that zeale for god as may make you successfull herein to his glory & your own comfort.
 <br><br>
-Jan. 3. 67. 									Your servant
+Jan. 3. 67. 									Your servant </emp>
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/2cd8c8e4-2416-45cb-a7c7-566ecc117305">
 
 ## 10 Literary Culture at the Early Modern Inns of Court 
-“Many early modern poets and playwrights were also members of the Inns of Court, and these authors shaped the development of key genres of the English Renaissance, especially lyric poetry, dramatic tragedy, satire, and masque”. The Inns’ geographical placement between Westminster and the City meant that Innsmen were well-placed to take advantage of London’s literary pastimes, as spectators and participants. “Poetry, translation, and performance were recreation pastimes [and] these activities also defined and elevated the status of” Innsmen as active participants in England’s legal world. – Jessica Winston, Lawyers at play
+“Many early modern poets and playwrights were also members of the Inns of Court, and these authors shaped the development of key genres of the English Renaissance, especially lyric poetry, dramatic tragedy, satire, and masque”. The Inns’ geographical placement between Westminster and the City meant that Innsmen were well-placed to take advantage of London’s literary pastimes, as spectators and participants. “Poetry, translation, and performance were recreation pastimes [and] these activities also defined and elevated the status of” Innsmen as active participants in England’s legal world. – Jessica Winston, <cite>Lawyers at play</cite>
 <br><br>
 Perhaps one of the most famous examples of their participation in literary culture is the 1634 ‘Triumph of Peace’ masque. It was performed by members of all four Inns for Charles I at Banqueting House in Whitehall. The masque was written by James Shirley (1596-1666, Gray’s Inn) and staged by Inigo Jones (1573-1652, Middle Temple). William Prynne (1600-1669, Lincoln’s Inn) famously attacked Queen Henrietta Maria’s participation in the masque and was rewarded by being sentenced to have his ears chopped off. 
 
 <param ve-image 
        url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-09%2F007547.tif/full/full/0/default.jpg"
-       label="Manuscript of the ‘manner of the progression of the masque,The triumph of peace, 1634’. Folger Shakespeare."
+       label="Manuscript of the ‘manner of the progression of the masque, <cite>The triumph of peace</cite>, 1634’. Folger Shakespeare."
        license="CC0 BY 1.0">
 
 <param ve-image 
@@ -116,27 +116,27 @@ Perhaps one of the most famous examples of their participation in literary cultu
        license="CC0 BY 1.0"> 
 
        
-## 11 Otto Melander, Jocorum atque seriorum (Frankfurt, 1617)
+## 11 Otto Melander, <cite>Jocorum atque seriorum</cite> (Frankfurt, 1617)
 Melander was a German lawyer who was critical of witchcraft trials. He had a sideline in publishing collections such as this, which is a compendium of jokes in Latin and humorous anecdotes. Blessin Adams has shown how early modern legal manuscript notebooks often contained non-legal texts alongside their more serious contents of moots and legal learning exercises, including ‘joco seria’ – humourous stories and jests. See for example Cambridge University Library’s manuscript CUL Dd.5.14.
 <br><br>
 
 image : Jocorum atque seriorum title page
 
-## 12 Nikolaus Reusner Aenigmatographia (Frankfurt, 1599)
-This is a collection of riddles that was once owned by John Donne (1572-1631, Lincoln’s Inn), as can be seen by his signature and motto, ‘Per Rachel ho seruito, & no[n] per Leah’ (I have served Rachel, not Leah). Donne’s motto, from Petrarch’s reference to Genesis 29, reveals that he chose a contemplative life over an active one. Donne started life at Lincoln’s Inn as a metaphysical poet, but later became Dean of St. Paul’s Cathedral Reusner was a prolific writer, who published at least 83 works during his life. This book is also part of the Ashley bequest. Ashley had five other books by Reusner, including one on the Turks.
+## 12 Nikolaus Reusner <cite>Aenigmatographia</cite> (Frankfurt, 1599)
+This is a collection of riddles that was once owned by John Donne (1572-1631, Lincoln’s Inn), as can be seen by his signature and motto, ‘Per Rachel ho seruito, & no[n] per Leah’ (I have served Rachel, not Leah). Donne’s motto, from Petrarch’s reference to <cite>Genesis</cite> 29, reveals that he chose a contemplative life over an active one. Donne started life at Lincoln’s Inn as a metaphysical poet, but later became Dean of St. Paul’s Cathedral Reusner was a prolific writer, who published at least 83 works during his life. This book is also part of the Ashley bequest. Ashley had five other books by Reusner, including one on the Turks.
 <br><br>
 
 image: Reusner, Aenigmatographia – title page
 
-## 13 John Selden, Table-talk (London, 1696)
-As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. Table-talk was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
+## 13 John Selden, <cite> Table-talk </cite> (London, 1696)
+As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. <cite>Table-talk</cite>was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
 
 <param ve-iframe
       src="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a59095.0001.001;node=A59095.0001.001:12;seq=36;submit=Go;type=simple;vid=55794;q1=popish%20books;page=root;view=text">
       
-## 14 Aeschyli tragoediae septem (London, 1664)
+## 14 <cite> Aeschyli tragoediae septem </cite> (London, 1664)
 This collection of Greek plays by Aeschylus was translated and edited by Thomas Stanley (1625-1678). It was donated by him to Middle Temple Library in 1667. It consists of the complete Greek text, with a Latin translation of each play. Stanley was a poet and classical scholar who lived at Middle Temple, next to his close friend, fellow scholar and Royalist, Edward Sherburne (1618-1702). 
-Stanley published a number of works in his lifetime, including Poems and translations (1647), which includes a commendatory verses by Sherburne. 
+Stanley published a number of works in his lifetime, including <cite>Poems and translations</cite> (1647), which includes a commendatory verses by Sherburne. 
 <br><br>
 Image © [The Trustees of the British Museum.](https://www.britishmuseum.org/collection/image/1394239001)
 
@@ -145,23 +145,23 @@ Image © [The Trustees of the British Museum.](https://www.britishmuseum.org/col
        license="CC BY-NC-SA 4.0"
        label="Thomas Stanley">
 
-## 15 Thomas Stanley, The history of philosophy in eight parts, (London, 1656) 
+## 15 Thomas Stanley, <cite>The history of philosophy in eight parts</cite>, (London, 1656) 
 In addition to producing translations of Greek plays, Stanley published this three volume work on ancient philosophers, concentrating on “those on whom the Attribute of Wise was conferred”. This, the second volume, includes accounts of the doctrines of Plato, Aristotle, and Stoicism. It was purchased by the Library from a fund of £50 that had been donated by Sir Richard Pepys (1588-1659, Middle Temple), revealing the continued interest in classical authors and philosophy at the Inns of Court. Pepys was Samuel Pepys’ great-uncle. His second wife was Bartholomew Gosnold’s daughter,  Mary. Gosnold (1571-1607, Middle Temple) and his wife Mary Goldinge helped establish the Virginia Company’s settlement in Jamestown in the early seventeenth century. He died there in 1607.
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/10f444f3-5f79-42b9-bb1d-92c80f877ff4)"
        label="Aristotle">
 
-## 16 John Dryden, The medall (London, 1682)
+## 16 John Dryden, <cite>The medall</cite> (London, 1682)
 This is a satire in verse on Anthony Ashley Cooper (1621-1683, Lincoln’s Inn), the first Earl of Shaftesbury (and great-nephew of Robert Ashley). This is Dryden’s response to the Earl’s acquittal for treason in 1681, for which a medal was struck to commemorate the event. Although not a member of the Inn himself, Dryden was friends with Innsmen such as William Congreve (1670-1690, Middle Temple), and his plays were performed at venues beside the Inns, such as the theatre at Lincoln’s Inn Fields. 
 
 <param ve-iframe
        src="https://archive.org/embed/drydenmedall1682">
 
-## 17 Christopher Brooke, The ghost of Richard the Third (London, 1844)
+## 17 Christopher Brooke, <cite>The ghost of Richard the Third</cite> (London, 1844)
 Christopher Brooke (d. 1628, Lincoln’s Inn) was friends with John Donne, and shared a set of chambers with him. This is a nineteenth-century reproduction of a play that was originally published in 1614. It contained dedicatory poems by members of Inner Temple, including William Browne (1590-1645) and Francis Dynne (dates unknown). On the title page, Brooke claims the poem contains more about Richard the Third than ‘hath been heretofore shewed; either in Chronicles, Playaes, or poems,’ a reference to the various publications and performances that were being circulated at the time, including the one by Shakespeare. 
 <br><br>
-This spine label was found in one of the Library’s legal manuscripts (MS2O), a sixteenth/seventeenth-century book of entries by Richard Brownlow (1553-1638, Inner Temple). It is a tantalising clue that Brownlow, or his heirs, had a copy of Shakespeare’s The tragedie of King Richard the second, or The life and death of King Richard the Second.
+This spine label was found in one of the Library’s legal manuscripts (MS2O), a sixteenth/seventeenth-century book of entries by Richard Brownlow (1553-1638, Inner Temple). It is a tantalising clue that Brownlow, or his heirs, had a copy of Shakespeare’s <cite>The tragedie of King Richard the second</cite>, or <cite>The life and death of King Richard the Second</cite>.
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/8f969840-0d11-4616-98c9-436e01a6f539"
@@ -177,29 +177,29 @@ Use any image no. 18-22
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## 18 John Donne, Pseudo-Martyr (London, 1610)
-In response to the Gunpowder Plot, in 1606 the Oath of Allegiance was proclaimed in law, requiring all Catholics to swear an allegiance to James I, not the Pope. Many Catholics refused. John Donne’s Pseudo-Martyr was written as “an exercise in religious polemic, designed to convince an English Protestant readership that even someone with personal sympathies for Catholics can find strong arguments against their refusal to take the” Oath. Donne of course was famously raised a Catholic, and the exact date of his conversion to Protestantism is unknown, but it was at least by 1601, when he was married in a Church of England ceremony. He was for a time secretary (like Robert Ashley) to Sir Thomas Egerton (1540-1617, Lincoln’s Inn), a known recusant. 
+## 18 John Donne, <cite>Pseudo-Martyr</cite> (London, 1610)
+In response to the Gunpowder Plot, in 1606 the Oath of Allegiance was proclaimed in law, requiring all Catholics to swear an allegiance to James I, not the Pope. Many Catholics refused. John Donne’s <cite>Pseudo-Martyr</cite> was written as “an exercise in religious polemic, designed to convince an English Protestant readership that even someone with personal sympathies for Catholics can find strong arguments against their refusal to take the” Oath. Donne of course was famously raised a Catholic, and the exact date of his conversion to Protestantism is unknown, but it was at least by 1601, when he was married in a Church of England ceremony. He was for a time secretary (like Robert Ashley) to Sir Thomas Egerton (1540-1617, Lincoln’s Inn), a known recusant. 
 <br><br>
 Image : Donne, Pseudo-martyr title page
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## 19 Recusants order, 1641, MT/1/MIS/33
+## 19 <emp>Recusants order, 1641, MT/1/MIS/33</emp>
 An order of the House of Commons in May 1641 obliged all men to swear an oath of allegiance to the Protestant religion. In response, the four Inns of Court had to search for recusants dwelling at the Inns, including at the Inns of Chancery, and expel those who were found. 
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9b91b2c7-9684-4844-888f-c258450f21a4">
 
-## 20 Communion books, mid-seventeenth century, MT/15/COM/1
+## 20 <emp>Communion books, mid-seventeenth century, MT/15/COM/1</emp>
 Members of Middle and Inner Temple had to sign this book to show that they had taken communion in Temple Church. It is open at 9 May 1669. One of the signers is Sir John Hoskyns (1634-1705, Middle Temple). Hoskyns became president of the Royal Society in 1682. He was friends with John Evelyn (1620-1706, Middle Temple), John Aubrey and other scholars. He was described as an awkwardly dressed man who might be taken for a ‘sorry quack’ because of it. He is not to be confused with the poet and wit John Hoski/yns (1566-1638, Middle Temple), who is described as ‘merry’ in the ‘Parliament Fart’, and who participated in the 1597-8 revels at Middle Temple. 
 
 <param ve-iframe
  src="https://makingscience.royalsociety.org/embed/items/rbo_2i_16/observations-of-iceland-by-mr-hoskins"
        label="Observations of Iceland by Mr Hoskins: Reference number: RBO/2i/16">
 
-## 21 John Sweet, Monsig[neu]r fate voi. Or A discovery of the Dalmatian apostata (Saint-Omer, 1617)
-As per the title page, this tract was written by ‘C.A.’ (that is, John Sweet) “to his friend P.R. student of the lawes in the Middle Temple”. The ‘Dalmatian apostata’ is a reference to Marco Antonio de Dominis (1560-1604), who fled from the Popish dominions to England during the reign of James I, where he published a series of books against the spiritual primacy of the See of Rome. Sweet was an English Jesuit, who wrote this tract in response to de Dominis’s De Republica Ecclesiastica. It was printed by the English College Press in Saint-Omer, France. The Press was part of the English Jesuit College, established by the Company of Jesuits to train English Jesuit missionaries. The identity of ‘P.R.’ is unknown, but recusants were known to reside at the Inns in the early modern period. 
+## 21 John Sweet, <cite>Monsig[neu]r fate voi. Or A discovery of the Dalmatian apostata</cite> (Saint-Omer, 1617)
+As per the title page, this tract was written by ‘C.A.’ (that is, John Sweet) “to his friend P.R. student of the lawes in the Middle Temple”. The ‘Dalmatian apostata’ is a reference to Marco Antonio de Dominis (1560-1604), who fled from the Popish dominions to England during the reign of James I, where he published a series of books against the spiritual primacy of the See of Rome. Sweet was an English Jesuit, who wrote this tract in response to de Dominis’s <cite>De Republica Ecclesiastica</cite>. It was printed by the English College Press in Saint-Omer, France. The Press was part of the English Jesuit College, established by the Company of Jesuits to train English Jesuit missionaries. The identity of ‘P.R.’ is unknown, but recusants were known to reside at the Inns in the early modern period. 
 
 <param ve-iframe
        src="https://archive.org/embed/bim_early-english-books-1475-1640_monsigr-fate-voi-or-a_sweet-j_1617">
@@ -209,12 +209,12 @@ William Crashaw (1572-1626) was not only the preacher at Temple Church, but also
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/5af4cadb-61bc-46b4-9ae3-87ad9485c4c9"
-       label="Crashaw letter MT-19-ILL-F-F12-3">
+       label="<emp>Crashaw letter MT-19-ILL-F-F12-3</emp>">
 
 ## 23 Learning the Law and Verbal Skills
 Learning the law in the early modern period was a complicated process, but one that relied heavily on verbal training, played out in mock trial learning exercises such as moots and case-putting. “Members of the Inns underwent communal exercises that tested law students' abilities beyond the memorisation of the common law, and the cut and thrust of legal argument also tested students’ skills in invention, argument, and reply”. – Blessin Adams
 <br><br>
-In an important book on Law as Performance, Julie Stone Peters has shown that legal training at the Inns, especially mooting, taught aspiring lawyers “not just in how to be a lawyer but how to look like one”. In the moots, members of the Inns took on roles as advocates, clients, and judges, and, in this way, the legal exercises fostered practices of “impersonation, dissimulation, and make believe”, all of which helped to shape “their identity as lawyers” as well as their sense of “the profession of law”. – Jessica Winston
+In an important book on <cite>Law as Performance</cite>, Julie Stone Peters has shown that legal training at the Inns, especially mooting, taught aspiring lawyers “not just in how to be a lawyer but how to look like one”. In the moots, members of the Inns took on roles as advocates, clients, and judges, and, in this way, the legal exercises fostered practices of “impersonation, dissimulation, and make believe”, all of which helped to shape “their identity as lawyers” as well as their sense of “the profession of law”. – Jessica Winston
 <br><br>
 Learning oratory and rhetorical skills came first from the Innsmen’s university education, and even their grammar school training. Many grammar school masters used theatre techniques to train performance skills to their students. Robert Ashley acted in comedies as a young schoolboy, and was also taught to read Cicero, Quintilian, Seneca, and Ovid. He, like his Innsmen contemporaries, regularly participated in ‘disputations’ while at Oxford, honing his argumentative skills. 
 <br><br>
@@ -225,45 +225,45 @@ Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collect
        license="CC BY-NC-SA 4.0"
        label="Image of Westminster Hall">
 
-## 24 Seneca, Opera (1672)
+## 24 Seneca, <cite>Opera</cite> (1672)
 Seneca was a model orator and lawyer to Innsmen, who studied and translated his works. They were taught Senecan verse while still at school, and continued to study, and translate his works as adults. Seneca was a “classical version of the sort of rhetorician and politician that those at the universities and Inns of Court were trying to become” – Jessica Winston. This copy has a vellum binding decorated with a gold-tooled armorial device bearing the royal coat-of-arms, but its provenance remains unidentified. 
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/2240db59-105d-49d9-8f5e-b2400b56035f" label="Seneca front binding" width="2448" height="3264">
        
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bc7a3fe4-5b50-42a8-82b1-15bb5bc4d6a2" label="Seneca, Opera, added title page" width="2448" height="3264">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bc7a3fe4-5b50-42a8-82b1-15bb5bc4d6a2" label="Seneca, <cite>Opera</cite>, added title page" width="2448" height="3264">
 
-## 25 Richard Mulcaster, Positions vvherin those primitiue circumstances be examined, which are necessarie for the training vp of children, either for skill in their booke, or health in their bodie (London, 1581) 
+## 25 Richard Mulcaster, <cite>Positions vvherin those primitiue circumstances be examined, which are necessarie for the training vp of children, either for skill in their booke, or health in their bodie</cite> (London, 1581) 
 Sir James Whitelocke (1570-1632, Middle Temple) wrote in his journal (later published as ‘Liber famelicus’) that his headmaster, Richard Mulcaster, recruited his students to act in plays that were performed for the court. Whitelocke wrote that he learned “good behaviour and audacitye” from acting these roles. This copy belonged to ‘Walter Hawgh’ (dates unknown), possibly the poet and official to the Archdeacon of Norwich. 
-Mulcaster (1530-1611) was the first headmaster of Merchant Taylors’ School, and later headmaster at St. Paul’s School. In addition to this work, he wrote one other book on the education of children, The first part of the elementarie (London, 1581).  
+Mulcaster (1530-1611) was the first headmaster of Merchant Taylors’ School, and later headmaster at St. Paul’s School. In addition to this work, he wrote one other book on the education of children, <cite>The first part of the elementarie</cite> (London, 1581).  
 <br><br>
 image: Mulcaster: title page
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## 26 Christopher Saint German, The dialogue in English, betweene a doctor of diuinitie, and a student in the lawes of England (London, 1607). 
+## 26 Christopher Saint German, <cite>The dialogue in English, betweene a doctor of diuinitie, and a student in the lawes of England</cite> (London, 1607). 
 Saint German (1460?-1540, Middle Temple), originally published this book in Latin in 1523. His book “popularized canonist learning on the nature and object of law, the religious and moral standards of law, the foundations of the common law and other issues regarding the jurisdiction of Parliament” (Law Book Exchange). It was an important work that went through multiple editions. This copy once belonged to a Henry Gardiner, dated 1609, and other owners, showing the continued popularity of the ‘dialogue’ to lawyers and students. 
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9e0342e7-5cda-483c-a132-8cd0b9f0982c"
        label="Title page showing Henry Gardiner’s inscription">
 
-## 27 The moot book of Gray’s Inn (London, 1924)
+## 27 <cite>The moot book of Gray’s Inn</cite> (London, 1924)
 This illustration depicts the 1556 Gray’s Inn Hall screen before it was destroyed in WWII. A report was written for Henry VIII in approximately 1540 on the constitution of the Inns of Court and their form and order of study. Its authors stated that moots took place during vacations every “night after supper, and every fasting day immediately after” six o’clock. Moots at Gray’s Inn took place in Hall, at the cupboard, and in the library. At Inner Temple, they were also known to take place in the old library. 
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/1db56175-d62a-4d0a-b18e-6aac22b31cb2"
        label="Gray's Inn Hall screen">
 
-## 28 Jakob Omphalius, De elocutionis imitatione ac apparatu liber unus (Cologne, 1537)
+## 28 Jakob Omphalius, <cite>De elocutionis imitatione ac apparatu liber unus</cite> (Cologne, 1537)
 An early work on oratory and rhetoric, two key skills for barristers. This copy has contemporary marginalia, including a hand-written index, and notes on the verso of the title page, revealing how an early modern reader (but not necessarily a lawyer or Innsman) responded to Omphalius’s text.
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/31043b2d-dd95-470e-8fef-638177904853">
        
-## 29 William Fulbecke, A Direction or preparatiue to the study of the Lawe (London, 1620)
+## 29 William Fulbecke, <cite>A Direction or preparatiue to the study of the Lawe</cite>(London, 1620)
 This copy also has contemporary marginalia, and signs of previous ownership made by one ‘John Kent’. The book is open to show what qualities a boy needs to study the law: “great regard of his speech”, and the ability to “deliver his opinion or argument in convenient and orderly sort, not after a rude confused and impolite manner”. Plus ça change! 
 <br><br>
 Image: Fulbecke
@@ -271,7 +271,7 @@ Image: Fulbecke
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## 30 Thomas Elyot, The book named the governor (London, 1544)
+## 30 Thomas Elyot, <cite>The book named the governor</cite> (London, 1544)
 Elyot proposes an educational programme for potential lawyers, which includes a focus on the value of learning the skills of ‘ancient orators’. An early modern reader has conveniently marked this point in his copy, using a marginal bracket. This, the first educational treatise published in England (1531), was dedicated to Henry VIII. Elyot stressed the importance of learning from classical writers, and that ancient orators taught pleading skills, useful for both the courtroom and for moot exercises. 
 <br><br>
 Image: Elyot
@@ -279,10 +279,10 @@ Image: Elyot
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## 31 Travel, Exploration, and Colonialism
-Both John Selden (1584-1654, Inner Temple) and Robert Ashley, through their impressive libraries, could be considered ‘armchair’ travellers. While Selden never left England, Ashley did travel to France, Holland and Spain at various points in his life. Both men acquired a large number of travel books for their libraries, a bibliographic process that mirrors Richard Hakluyt’s famous ‘armchair’ travel book, Principal navigations, a compilation of English travel accounts. 
+## 31 <emp>Travel, Exploration, and Colonialism</emp>
+Both John Selden (1584-1654, Inner Temple) and Robert Ashley, through their impressive libraries, could be considered ‘armchair’ travellers. While Selden never left England, Ashley did travel to France, Holland and Spain at various points in his life. Both men acquired a large number of travel books for their libraries, a bibliographic process that mirrors Richard Hakluyt’s famous ‘armchair’ travel book, <cite>Principal navigations</cite>, a compilation of English travel accounts. 
 <br><br>
-But other Innsmen did travel beyond the book. Armagil Waad (1510-1568, Gray’s Inn) was a government official who travelled in 1536 to Newfoundland, Canada. His son was Sir William Waad (1546-1623), who travelled extensively in Europe. By 1587 Sir William was back in England, and “became the terror of the English recusants”. The Library owns five books that once belonged to Waad, including René Goulaine de Laudonnière’s L' histoire notable de la Floride située es Indes Occidentales, a history of the French Huguenot colony in Florida (1562-1565). 
+But other Innsmen did travel beyond the book. Armagil Waad (1510-1568, Gray’s Inn) was a government official who travelled in 1536 to Newfoundland, Canada. His son was Sir William Waad (1546-1623), who travelled extensively in Europe. By 1587 Sir William was back in England, and “became the terror of the English recusants”. The Library owns five books that once belonged to Waad, including René Goulaine de Laudonnière’s <cite>L' histoire notable de la Floride située es Indes Occidentales</cite>, a history of the French Huguenot colony in Florida (1562-1565). 
 <br><br>
 John Winthrop (1606-1676, Inner Temple) travelled fairly extensively, including Venice and Constantinople, before emigrating to New England in 1634 where he became a political leader. He travelled between New England and Europe throughout his adult life, drumming up investment for new industrial ventures in the ‘new world’. He eventually became governor of Connecticut in 1657. 
 <br><br>
@@ -294,7 +294,7 @@ In 2021, Emily Stevenson and Lauren Working created an exhibition in the Library
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/04b4bc44-e9b1-4161-97ee-0c1a4490a3b7"
        label="Hakluyt Principal Navigations title page">
 
-## 32 Viaggi fatti da Vinetia, alla Tana, in Persia, in India, et in Costantinopoli (Venice, 1545)
+## 32 <cite>Viaggi fatti da Vinetia, alla Tana, in Persia, in India, et in Costantinopoli</cite> (Venice, 1545)
 This work is a description of Iran, Turkey, Venice, and India, and contains accounts of voyages by made by Giosafat Barbaro (Tana in 1436, Persia 1471), Ambrogio Contarini (Persia 1473-77), and Luigi Roncinotto (Ethiopia 1532, Persia and India in 1529). As can be seen here, it has multiple signs of ownership, including that of William Ireland (d. 1570/1). 
 <br><br>
 Tana was the name which the Genoese gave to their factory at Azov at the mouth of the river Don, in Russia. The book also “includes Benedetto Ramberti's account of the Turkish Sultan's campaign against the Portuguese settlement of Diu in northern India in 1538”. 
@@ -303,32 +303,32 @@ The famous dolphin and anchor printer’s device reveals that the book was print
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/03170ade-b6d6-445c-9d2d-9725e085db7d">
 
-## 33 Daniel Browne, Browne 1624: A new almanacke and prognostication, for the yeare of our Lord God, 1624 (London, 1624)
-Almanacs provided a range of information for their users, including astrological and planetary charts. Many users, such as Robert Ashley, used them as diaries and personal calendars. In this copy, Ashley recorded that he lent a book about Italy to Sir Robert Sherley (1581-1628); it was never returned. Sherley lived in Persia for approximately eight years, in the service of Shah ‘Abbas, who sent him to Europe as an emissary. He returned to England in 1623, via a stint in Spain on behalf of the Shah. Along with his two brothers, Anthony and Thomas, the Sherley brothers “earned a reputation in their day in pamphlet and play as champions of Christendom against the Turk”. One of these plays, The Travels of the Three English Brothers was written in 1607, based on the three men’s exploits. It is referred to by Francis Beaumont (1584-1616 Inner Temple) in his The Knight of the Burning Pestle.
+## 33 Daniel Browne, <cite>Browne 1624: A new almanacke and prognostication, for the yeare of our Lord God, 1624</cite> (London, 1624)
+Almanacs provided a range of information for their users, including astrological and planetary charts. Many users, such as Robert Ashley, used them as diaries and personal calendars. In this copy, Ashley recorded that he lent a book about Italy to Sir Robert Sherley (1581-1628); it was never returned. Sherley lived in Persia for approximately eight years, in the service of Shah ‘Abbas, who sent him to Europe as an emissary. He returned to England in 1623, via a stint in Spain on behalf of the Shah. Along with his two brothers, Anthony and Thomas, the Sherley brothers “earned a reputation in their day in pamphlet and play as champions of Christendom against the Turk”. One of these plays, <cite>The Travels of the Three English Brothers</cite> was written in 1607, based on the three men’s exploits. It is referred to by Francis Beaumont (1584-1616 Inner Temple) in his <cite>The Knight of the Burning Pestle</cite>.
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/f390a9fc-21a4-4a56-aef1-9386d1f0dc9c">
 
-## 34 William Bullock, Virginia impartially examined (London, 1649)
+## 34 William Bullock, <cite>Virginia impartially examined</cite> (London, 1649)
 In this tract, Bullock chastised the Virginia governors for focusing too heavily on tobacco production, in lieu of other commodities. Tobacco saturated the market in England and caused bankruptcies for some investors. Bullock’s tract includes suggestions on how to improve the natural and economic conditions in Virginia, as well as descriptions of the land: “what this countrey affords of beasts, fowls, birds, and fish for foode”. It was dedicated to the Earl of Arundel and Lord Baltimore, George Calvert. 
 <br><br>
-This tract was one of the hundreds donated to the Library by William Petyt (1640/41-1707, Middle Temple and Inner Temple). Petyt was Treasurer at Inner Temple in 1701-1702. He was an ardent student of English historical records, and the author of “one of the most effective and powerful of the radical ancient constitutionalist tracts” of the late seventeenth-century, The Antient Right of the Commons of England Asserted (1680). 
+This tract was one of the hundreds donated to the Library by William Petyt (1640/41-1707, Middle Temple and Inner Temple). Petyt was Treasurer at Inner Temple in 1701-1702. He was an ardent student of English historical records, and the author of “one of the most effective and powerful of the radical ancient constitutionalist tracts” of the late seventeenth-century, <cite>The Antient Right of the Commons of England Asserted</cite> (1680). 
 <br><br>
 image: William Bullock title page
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## 35 Gonzalo Fernández de Oviedo y Valdés, L'histoire naturelle et generalle des Indes, isles, et terre ferme de la grand mer oceane (Paris, 1556)
-This is a French translation of Historia general y natural de las Indias, first published in Toledo in 1526. As can be seen here, it has a maxim on the title page, which Robert Ashley has ascribed to Seneca: ‘Ille mihi vivere atque frui anima videtur, qui aliquo negotio intentus praeclari facinoris aut artis bonae famam quaerit’ (only that man appears to me to be alive and make the most of life who by devoting himself to some enterprise, seeks fame for a glorious deed or good practice). The line actually appears in Sallust’s ‘The war with Catiline’. There is a pre-Ashley inscription on the title page as well, dated 1593: ‘Assai ben balla, a chi fortuna suona’. 
+## 35 Gonzalo Fernández de Oviedo y Valdés, <cite>L'histoire naturelle et generalle des Indes, isles, et terre ferme de la grand mer oceane</cite> (Paris, 1556)
+This is a French translation of <cite>Historia general y natural de las Indias</cite>, first published in Toledo in 1526. As can be seen here, it has a maxim on the title page, which Robert Ashley has ascribed to Seneca: ‘Ille mihi vivere atque frui anima videtur, qui aliquo negotio intentus praeclari facinoris aut artis bonae famam quaerit’ (only that man appears to me to be alive and make the most of life who by devoting himself to some enterprise, seeks fame for a glorious deed or good practice). The line actually appears in Sallust’s ‘The war with Catiline’. There is a pre-Ashley inscription on the title page as well, dated 1593: ‘Assai ben balla, a chi fortuna suona’. 
 <br><br>
 Fernández de Oviedo y Valdés (1478-1557) was a Spanish bureaucrat and chronicler who spent time in what is now Panama and Nicaragua. All editions of this work are illustrated with woodcuts, some of which are based on his own illustrations. They include early depictions of a hammock, a pineapple and plantain leaves. 
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/3033d88d-fff0-4316-979b-386861ee0d97">
 
-## 36 Hessel Gerritsz, Descriptio ac delineatio geographica detectionis freti, sive, Transitus ad Occasum, suprà terras Americanas, in Chinam atq[ue] Iaponem ducturi, recens investigati ab m. Henrico Hudsono Anglo (Amsterdam, 1612)
-Gerritsz (1581-1632) was a Dutch cartographer. This is a Latin translation by Reinier Telle of Beschryvinghe vander Samoyeden landt in Tartarien. Gerritsz’s work discusses important exploration and commercial topics for the time: the Northwest Passage, Henry Hudson’s ill-fated voyage to Canada, Siberia, and the austral lands. The Latin edition differed slightly from its original Dutch, making Hudson’s voyage a more prominent feature. Facing the text regarding Henry Hudson (d. 1611), Robert Ashley has copied information from the cartouches in the map of North America drawn by Henry Briggs (1561-1630). The Briggs map may have circulated prior to its inclusion in Purchas his pilgrimes (London, 1626). This publication contains the first published account of Hudson’s exploration of the northern part of what is now Canada. Hudson, like his contemporaries, was obsessed with finding a Northwest passage to Asia. 
+## 36 Hessel Gerritsz, <cite>Descriptio ac delineatio geographica detectionis freti, sive, Transitus ad Occasum, suprà terras Americanas, in Chinam atq[ue] Iaponem ducturi, recens investigati ab m. Henrico Hudsono Anglo</cite> (Amsterdam, 1612)
+Gerritsz (1581-1632) was a Dutch cartographer. This is a Latin translation by Reinier Telle of <cite>Beschryvinghe vander Samoyeden landt in Tartarien</cite>. Gerritsz’s work discusses important exploration and commercial topics for the time: the Northwest Passage, Henry Hudson’s ill-fated voyage to Canada, Siberia, and the austral lands. The Latin edition differed slightly from its original Dutch, making Hudson’s voyage a more prominent feature. Facing the text regarding Henry Hudson (d. 1611), Robert Ashley has copied information from the cartouches in the map of North America drawn by Henry Briggs (1561-1630). The Briggs map may have circulated prior to its inclusion in <cite>Purchas his pilgrimes</cite> (London, 1626). This publication contains the first published account of Hudson’s exploration of the northern part of what is now Canada. Hudson, like his contemporaries, was obsessed with finding a Northwest passage to Asia. 
 <br><br>
 Image courtesy of [Manitoba Historical Maps Flickr.](https://www.flickr.com/photos/manitobamaps/1194604271/ )
 <param ve-image 
@@ -336,10 +336,10 @@ Image courtesy of [Manitoba Historical Maps Flickr.](https://www.flickr.com/phot
        label="Map of ‘The north part of America by Henry Briggs 1625’, courtesy Manitoba Historical Maps Flickr"
        license="CC BY 2.0">
 
-## 37 Robert Hues, Traicté des globes (Paris, 1618) 
+## 37 Robert Hues, <cite>Traicté des globes</cite> (Paris, 1618) 
 Robert Hues (1553 - 1632) was a renowned mathematician and geographer. While studying at the University of Oxford he was introduced to Walter Raleigh and his circle of sailors and navigators through his friend Richard Hakluyt. He became very interested in navigation and accompanied Thomas Cavendish on his circumnavigation of the world in 1586-1588. He may also have accompanied Walter Raleigh on his trip to Virginia in 1585.
 <br><br>
-In 1594 he published Tractatus de globis et eorum usu, which was dedicated to Walter Raleigh. This book was published to accompany and explain the use of a pair of globes made by Emery Molyneux in 1592, of which the only surviving pair can be seen here in the Library. It was also intended to encourage the use of practical astronomical navigation by English sailors. References to Raleigh, Cavendish and other English sailors are made on the terrestrial globe. This treatise was widely circulated and was translated into Dutch, French (seen here), and German. Curiously, the first English translation, A Learned Treatise of Globes, Both Coelestiall and Terrestriall: with their several uses was not published until 1638.
+In 1594 he published <cite>Tractatus de globis et eorum usu</cite>, which was dedicated to Walter Raleigh. This book was published to accompany and explain the use of a pair of globes made by Emery Molyneux in 1592, of which the only surviving pair can be seen here in the Library. It was also intended to encourage the use of practical astronomical navigation by English sailors. References to Raleigh, Cavendish and other English sailors are made on the terrestrial globe. This treatise was widely circulated and was translated into Dutch, French (seen here), and German. Curiously, the first English translation, <cite>A Learned Treatise of Globes, Both Coelestiall and Terrestriall: with their several uses</cite> was not published until 1638.
 <br><br>
 image: Hues title page
 
