@@ -12,7 +12,7 @@ Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns o
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 
-## 2 <emp> Introduction: Mapping the Early Modern Inns of Court </emp>
+## 2 <i> Introduction: Mapping the Early Modern Inns of Court </i>
 The early modern Inns of Court have long been recognised as an intellectual and cultural hub. ‘Mapping the Early Modern Inns of Court’ is an initiative that brings together an international community of researchers from a variety of disciplines working in this field. They run seminars, a blog, and provide a platform where researchers can share their work and bring published material to everyone’s attention. 
 <br><br>
 This exhibition highlights some of the areas that the group has explored in their seminars and publications: recreation (fencing, revelling, and gaming); literary culture at the Inns; religion and preaching; learning the law and verbal skills; travel and exploration endeavours. 
@@ -53,9 +53,9 @@ Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collect
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bde9673d-abd9-475b-ae76-d06dffeccc8b"
        license="CC BY-NC-SA 4.0"
-       label="<emp>Illustration of two ‘bastionados'</emp>">
+       label="<i>Illustration of two ‘bastionados'</i>">
 
-## 5 <emp> Portrait of Richard Martin (1570-1618) MT/19/POR/464 </emp> 
+## 5 <i> Portrait of Richard Martin (1570-1618) MT/19/POR/464 </i> 
 Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html)).
 <br><br>
 
@@ -63,7 +63,7 @@ Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9d11d6f9-cb5f-4d03-9fd9-bd6d9054992d"
        label="Portrait of Richard Martin (1570-1618) MT/19/POR/464">
 
-## 6 <emp> Fencing receipt: MT/21/2/7/HT: payment to fencing professor M[onsieur] Philebois, dated 1653 </emp>
+## 6 <i> Fencing receipt: MT/21/2/7/HT: payment to fencing professor M[onsieur] Philebois, dated 1653 </i>
 “Those who dedicated themselves to the study of law at the Inns valued such intellectual traits as a keen memory and verbal playfulness. In addition to his supreme intelligence, an Innsman in this period also cultivated a courtly physique. Ongoing research work on the performance of dancing and fencing at the Inns reveals that the men admired balance, strength, and quick-footedness. Not everyone [for example, John Davies] had the body to meet such strict standards”. – Penelope Geng
 <br><br>
 
@@ -85,17 +85,17 @@ This book was part of the Robert Ashley bequest of 1641 which reinstated a libra
 <param ve-iframe
        src="https://gallica.bnf.fr/ark:/12148/bpt6k84824s/f1.image.mini">
 
-## 9 <emp> An unsigned letter, potentially to Master Treasurer, MT/3/MEM/24, 1667/8 </emp>
+## 9 <i> An unsigned letter, potentially to Master Treasurer, MT/3/MEM/24, 1667/8 </i>
 This copy of an anonymous letter addressed to Sir Geoffrey Palmer, ‘Mr Att[orney] Generall’ is dated 3 January 1668 by the modern Gregorian calendar, which starts each new year on 1 January, not 25 March as in the pre-1752 Julian calendar. So it was written just 14 months after the September 1666 Great Fire of London, which destroyed most of the medieval city, spreading almost to the Temple Church. This disaster was seen by many contemporaries, including the letter’s author, as God’s punishment for the sins of the nation in general and Londoners in particular.
 <br><br>
 While the Church of England had returned with Charles II in 1660, puritans (radical protestants) were still thick on the ground, not least in London. Disapproving of the habitual student gaming with cards and dice over the twelve days of Christmas in the halls of the Inns of Court, they regarded mixed dancing on Saturday night and into Sunday morning with real horror. This profanation of the Lord’s Day clearly required — if not the dire retribution meted out by Phineas in the Old Testament (Numbers, 25.7-11) — at very least a file of soldiers to bar revellers from the Middle Temple Hall. 
 <br><br>
 Wilfrid Prest wrote the caption above, and produced this transcript of the letter:
 <br><br>
-<emp>Worthy Sir
+<i>Worthy Sir
 Its matter of much greif to good men and in itselfe a shame that such gameing is permitted in the Temples and danceing on the Lords day at nights what cann the consequences hereof be but further Judgment from God upon this poore shattered Cittie & perplexed Nation and debauching of youth, Oh who would have thought that the late Judgment of fire spared these 2 Halls & Societyes for this end? is this our requitall of God: dear Sir consider it, you are a greate parte of this Society of the Middle Temple, your authority will reach far, you have a great esteeme in the hearts of most, (I speake my owne heart, ye Lord Almighty knowes it) and ‘tis your due, who knowes but if yow would use your endeavour to suppreses this wickednesse you may prevaile and procure a blessing O stand up as Phineas did, and stay gods hand, his rod is still over us, shall none be found to appeare for God in such a day as this? are all our deliverances & mercys forgotten allready? God forbid, pray Sir concerne your selfe at this time in this matter if it be too much for yow at this time to stop ye gameing yet prevent if possible further danceing on the Lords dayes at nights doe your utmost, set some soldiers at the Hall dores if nothing else will doe, tis better you displease the Students, then that God be displeased & dishonored as he is by it every moment, deare Sir remember there is a day of account hastening on apace & what can you and your Brethren the Benchers of these Societies say and how can you and they answeare God then & your consciences in the meane time, that will stand still and see such wicked and ungodly doeinges in your howses as now there are? Consider it I beseech you, and the Lord give you that courage & that zeale for god as may make you successfull herein to his glory & your own comfort.
 <br><br>
-Jan. 3. 67. 									Your servant </emp>
+Jan. 3. 67. 									Your servant </i>
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/2cd8c8e4-2416-45cb-a7c7-566ecc117305">
@@ -185,13 +185,13 @@ Image : Donne, Pseudo-martyr title page
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## 19 <emp>Recusants order, 1641, MT/1/MIS/33</emp>
+## 19 <i>Recusants order, 1641, MT/1/MIS/33</i>
 An order of the House of Commons in May 1641 obliged all men to swear an oath of allegiance to the Protestant religion. In response, the four Inns of Court had to search for recusants dwelling at the Inns, including at the Inns of Chancery, and expel those who were found. 
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9b91b2c7-9684-4844-888f-c258450f21a4">
 
-## 20 <emp>Communion books, mid-seventeenth century, MT/15/COM/1</emp>
+## 20 <i>Communion books, mid-seventeenth century, MT/15/COM/1</i>
 Members of Middle and Inner Temple had to sign this book to show that they had taken communion in Temple Church. It is open at 9 May 1669. One of the signers is Sir John Hoskyns (1634-1705, Middle Temple). Hoskyns became president of the Royal Society in 1682. He was friends with John Evelyn (1620-1706, Middle Temple), John Aubrey and other scholars. He was described as an awkwardly dressed man who might be taken for a ‘sorry quack’ because of it. He is not to be confused with the poet and wit John Hoski/yns (1566-1638, Middle Temple), who is described as ‘merry’ in the ‘Parliament Fart’, and who participated in the 1597-8 revels at Middle Temple. 
 
 <param ve-iframe
@@ -209,7 +209,7 @@ William Crashaw (1572-1626) was not only the preacher at Temple Church, but also
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/5af4cadb-61bc-46b4-9ae3-87ad9485c4c9"
-       label="<emp>Crashaw letter MT-19-ILL-F-F12-3</emp>">
+       label="<i>Crashaw letter MT-19-ILL-F-F12-3</i>">
 
 ## 23 Learning the Law and Verbal Skills
 Learning the law in the early modern period was a complicated process, but one that relied heavily on verbal training, played out in mock trial learning exercises such as moots and case-putting. “Members of the Inns underwent communal exercises that tested law students' abilities beyond the memorisation of the common law, and the cut and thrust of legal argument also tested students’ skills in invention, argument, and reply”. – Blessin Adams
@@ -279,7 +279,7 @@ Image: Elyot
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## 31 <emp>Travel, Exploration, and Colonialism</emp>
+## 31 <i>Travel, Exploration, and Colonialism</i>
 Both John Selden (1584-1654, Inner Temple) and Robert Ashley, through their impressive libraries, could be considered ‘armchair’ travellers. While Selden never left England, Ashley did travel to France, Holland and Spain at various points in his life. Both men acquired a large number of travel books for their libraries, a bibliographic process that mirrors Richard Hakluyt’s famous ‘armchair’ travel book, <cite>Principal navigations</cite>, a compilation of English travel accounts. 
 <br><br>
 But other Innsmen did travel beyond the book. Armagil Waad (1510-1568, Gray’s Inn) was a government official who travelled in 1536 to Newfoundland, Canada. His son was Sir William Waad (1546-1623), who travelled extensively in Europe. By 1587 Sir William was back in England, and “became the terror of the English recusants”. The Library owns five books that once belonged to Waad, including René Goulaine de Laudonnière’s <cite>L' histoire notable de la Floride située es Indes Occidentales</cite>, a history of the French Huguenot colony in Florida (1562-1565). 
