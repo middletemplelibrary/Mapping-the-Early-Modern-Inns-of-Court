@@ -247,7 +247,8 @@ image: Mulcaster: title page
 Saint German (1460?-1540, Middle Temple), originally published this book in Latin in 1523. His book “popularized canonist learning on the nature and object of law, the religious and moral standards of law, the foundations of the common law and other issues regarding the jurisdiction of Parliament” (Law Book Exchange). It was an important work that went through multiple editions. This copy once belonged to a Henry Gardiner, dated 1609, and other owners, showing the continued popularity of the ‘dialogue’ to lawyers and students. 
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9e0342e7-5cda-483c-a132-8cd0b9f0982c">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9e0342e7-5cda-483c-a132-8cd0b9f0982c"
+       label="Title page showing Henry Gardiner’s inscription">
 
 ## 27 The moot book of Gray’s Inn (London, 1924)
 This illustration depicts the 1556 Gray’s Inn Hall screen before it was destroyed in WWII. A report was written for Henry VIII in approximately 1540 on the constitution of the Inns of Court and their form and order of study. Its authors stated that moots took place during vacations every “night after supper, and every fasting day immediately after” six o’clock. Moots at Gray’s Inn took place in Hall, at the cupboard, and in the library. At Inner Temple, they were also known to take place in the old library. 
@@ -287,9 +288,7 @@ John Winthrop (1606-1676, Inner Temple) travelled fairly extensively, including 
 <br><br>
 George Calvert (1579/80-1632, Lincoln’s Inn) was in service to Sir Robert Cecil, and in 1610/1611 gathered intelligence on the continent for him. Calvert was an early investor in the Virginia Company and East India Company, and established a colony in Newfoundland in 1621, which he visited in 1627. He also tried to establish a colony in Virginia, but for various reasons was unsuccessful. He converted to Catholicism in 1624. 
 <br><br>
-In 2021, Emily Stevenson and Lauren Working created an exhibition in the Library examining the global networks of trade and exploration, with a particular focus on Middle Temple. 
-<br><br>
-link: From Middle Temple to Manoa: Global networks at the Inns of Court booklet (Their publication can be downloaded via the QR code here). Located in L drive 2021 Displays TIDE
+In 2021, Emily Stevenson and Lauren Working created an exhibition in the Library examining the global networks of trade and exploration, with a particular focus on Middle Temple. Read the publication: [From Middle Temple to Manoa: Global networks at the Inns of Court.](https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/files/15146657/Booklet.pdf)
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/04b4bc44-e9b1-4161-97ee-0c1a4490a3b7"
