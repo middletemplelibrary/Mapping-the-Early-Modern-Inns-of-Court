@@ -19,7 +19,7 @@ This exhibition highlights some of the areas that the group has explored in thei
 <br><br>
 The text in the caption cards includes submissions from some of the people involved in the project: Blessin Adams, Penelope Geng, Jackie Watson, and Jessica Winston. Contributions have also been made by Wilfrid Prest and Sylvia Sumira. 
 <br><br>
-A collection of essays produced by the project, Mapping the Early Modern Inns of Court, is forthcoming from Palgrave. For more information and to sign up for the mailing list, click [here.](https://mappinginns.wordpress.com/)
+A collection of essays produced by the project, <cite>Mapping the Early Modern Inns of Court</cite>, is forthcoming from Palgrave. For more information and to sign up for the mailing list, click [here.](https://mappinginns.wordpress.com/)
 <br><br>
 Read the Archive of the month [September 2021: Books, Bread and Beer - A History of Shops and Taverns at the Middle Temple.](https://www.middletemple.org.uk/archive-history/archive-month/september-2021-books-bread-and-beer)
 
@@ -70,15 +70,15 @@ Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/3997e504-9bec-40eb-bca8-bbed1014bd39">
 
-## 7 Sir John Fortescue, De Laudibus Legum Angliae (London, 1616)
-Fortescue’s De Laudibus Legum Angliae (in praise of the laws of England) is best known as a legal treatise originally written circa 1470 for Edward, Prince of Wales, son of Henry VI. It is on display here to show Fortescue’s account of the ‘soft skills’ the Innsmen were learning. In the chapter regarding “the disposition of the generall studie of the Lawes of England, and that the same in number of students passeth certaine vniuersities”, Fortescue writes that Innsmen were taught to “sing, & to exercise themselues in all kinde of harmony. There also they practise dauncing, & other Noble mens pastimes”. 
+## 7 Sir John Fortescue, <cite>De Laudibus Legum Angliae</cite> (London, 1616)
+Fortescue’s <cite>De Laudibus Legum Angliae</cite> (in praise of the laws of England) is best known as a legal treatise originally written circa 1470 for Edward, Prince of Wales, son of Henry VI. It is on display here to show Fortescue’s account of the ‘soft skills’ the Innsmen were learning. In the chapter regarding “the disposition of the generall studie of the Lawes of England, and that the same in number of students passeth certaine vniuersities”, Fortescue writes that Innsmen were taught to “sing, & to exercise themselues in all kinde of harmony. There also they practise dauncing, & other Noble mens pastimes”. 
 <br><br>
-[De laudibus legum Angliæ full text.](https://quod.lib.umich.edu/e/eebo/A01083.0001.001)
+[<cite>De laudibus legum Angliæ</cite> full text.](https://quod.lib.umich.edu/e/eebo/A01083.0001.001)
 
 <param ve-iframe
        src="https://quod.lib.umich.edu/e/eebo/A01083.0001.001?rgn=main;view=fulltext">
        
-## 8 Daneau Lambert, Deux traitez nouveaux, tres-utiles pour ce temps … (Geneva, 1579)
+## 8 Daneau Lambert, <cite> Deux traitez nouveaux, tres-utiles pour ce temps … </cite> (Geneva, 1579)
 This book was part of the Robert Ashley bequest of 1641 which reinstated a library at Middle Temple. It is divided into two parts. The first is about witchcraft, and the second about the religious aspects of dice and card games. In 1628, Gray’s Inn decreed that “all playing at dice, cards, or otherwise, in the hall, buttery, or butler’s chamber” was forbidden, except for the twenty days at Christmas. Innsmen were loathe to obey such rules however. In 1730s the floor boards in Middle Temple Hall were replaced, revealing hundreds of pairs of dice were found, having fallen through floor joints over the years. 
 <br><br>
 
