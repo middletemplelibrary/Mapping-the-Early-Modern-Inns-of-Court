@@ -174,9 +174,7 @@ Attempts were made in the late sixteenth-century to force the Inns to conform, a
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9b91b2c7-9684-4844-888f-c258450f21a4"
-       label="Recusants order, 1641, MT/1/MIS/33
-       <br><br>
-       An order of the House of Commons in May 1641 obliged all men to swear an oath of allegiance to the Protestant religion. In response, the four Inns of Court had to search for recusants dwelling at the Inns, including at the Inns of Chancery, and expel those who were found.">
+       label="Recusants order, 1641, MT/1/MIS/33. An order of the House of Commons in May 1641 obliged all men to swear an oath of allegiance to the Protestant religion. In response, the four Inns of Court had to search for recusants dwelling at the Inns, including at the Inns of Chancery, and expel those who were found.">
 
 ## 18 John Donne, <cite>Pseudo-Martyr</cite> (London, 1610)
 In response to the Gunpowder Plot, in 1606 the Oath of Allegiance was proclaimed in law, requiring all Catholics to swear an allegiance to James I, not the Pope. Many Catholics refused. John Donne’s <cite>Pseudo-Martyr</cite> was written as “an exercise in religious polemic, designed to convince an English Protestant readership that even someone with personal sympathies for Catholics can find strong arguments against their refusal to take the” Oath. Donne of course was famously raised a Catholic, and the exact date of his conversion to Protestantism is unknown, but it was at least by 1601, when he was married in a Church of England ceremony. He was for a time secretary (like Robert Ashley) to Sir Thomas Egerton (1540-1617, Lincoln’s Inn), a known recusant. 
@@ -185,12 +183,6 @@ Image : Donne, Pseudo-martyr title page
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
-
-## 19 <i>Recusants order, 1641, MT/1/MIS/33</i>
-An order of the House of Commons in May 1641 obliged all men to swear an oath of allegiance to the Protestant religion. In response, the four Inns of Court had to search for recusants dwelling at the Inns, including at the Inns of Chancery, and expel those who were found. 
-
-<param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9b91b2c7-9684-4844-888f-c258450f21a4">
 
 ## 20 <i>Communion books, mid-seventeenth century, MT/15/COM/1</i>
 Members of Middle and Inner Temple had to sign this book to show that they had taken communion in Temple Church. It is open at 9 May 1669. One of the signers is Sir John Hoskyns (1634-1705, Middle Temple). Hoskyns became president of the Royal Society in 1682. He was friends with John Evelyn (1620-1706, Middle Temple), John Aubrey and other scholars. He was described as an awkwardly dressed man who might be taken for a ‘sorry quack’ because of it. He is not to be confused with the poet and wit John Hoski/yns (1566-1638, Middle Temple), who is described as ‘merry’ in the ‘Parliament Fart’, and who participated in the 1597-8 revels at Middle Temple. 
