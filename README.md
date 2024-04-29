@@ -1,5 +1,4 @@
 
-
 <param ve-config 
        title="Mapping the Early Modern Inns of Court"
        author="Middle Temple Library"
@@ -53,7 +52,7 @@ Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collect
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bde9673d-abd9-475b-ae76-d06dffeccc8b"
        license="CC BY-NC-SA 4.0"
-       label="<i>Illustration of two ‘bastionados'</i>">
+       label="Illustration of two ‘bastionados'">
 
 ## 5 <i> Portrait of Richard Martin (1570-1618) MT/19/POR/464 </i> 
 Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html)).
@@ -107,7 +106,7 @@ Perhaps one of the most famous examples of their participation in literary cultu
 
 <param ve-image 
        url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-09%2F007547.tif/full/full/0/default.jpg"
-       label="Manuscript of the ‘manner of the progression of the masque, <cite>The triumph of peace</cite>, 1634’. Folger Shakespeare."
+       label="Manuscript of the ‘manner of the progression of the masque, The triumph of peace, 1634’. Folger Shakespeare."
        license="CC0 BY 1.0">
 
 <param ve-image 
@@ -202,7 +201,7 @@ William Crashaw (1572-1626) was not only the preacher at Temple Church, but also
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/5af4cadb-61bc-46b4-9ae3-87ad9485c4c9"
-       label="<i>Crashaw letter MT-19-ILL-F-F12-3</i>">
+       label="Crashaw letter MT-19-ILL-F-F12-3">
 
 ## 23 Learning the Law and Verbal Skills
 Learning the law in the early modern period was a complicated process, but one that relied heavily on verbal training, played out in mock trial learning exercises such as moots and case-putting. “Members of the Inns underwent communal exercises that tested law students' abilities beyond the memorisation of the common law, and the cut and thrust of legal argument also tested students’ skills in invention, argument, and reply”. – Blessin Adams
@@ -225,7 +224,7 @@ Seneca was a model orator and lawyer to Innsmen, who studied and translated his 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/2240db59-105d-49d9-8f5e-b2400b56035f" label="Seneca front binding" width="2448" height="3264">
        
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bc7a3fe4-5b50-42a8-82b1-15bb5bc4d6a2" label="Seneca, <cite>Opera</cite>, added title page" width="2448" height="3264">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/bc7a3fe4-5b50-42a8-82b1-15bb5bc4d6a2" label="Seneca, Opera, added title page" width="2448" height="3264">
 
 ## 25 Richard Mulcaster, <cite>Positions vvherin those primitiue circumstances be examined, which are necessarie for the training vp of children, either for skill in their booke, or health in their bodie</cite> (London, 1581) 
 Sir James Whitelocke (1570-1632, Middle Temple) wrote in his journal (later published as ‘Liber famelicus’) that his headmaster, Richard Mulcaster, recruited his students to act in plays that were performed for the court. Whitelocke wrote that he learned “good behaviour and audacitye” from acting these roles. This copy belonged to ‘Walter Hawgh’ (dates unknown), possibly the poet and official to the Archdeacon of Norwich. 
