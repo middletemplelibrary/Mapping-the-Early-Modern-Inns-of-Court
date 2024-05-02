@@ -135,7 +135,7 @@ This is a collection of riddles that was once owned by John Donne (1572-1631, Li
 As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. <cite>Table-talk</cite> was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
 
 <param ve-iframe
-      src="https://quod.lib.umich.edu/e/eebo/A59095.0001.001/1:12?rgn=div1;view=fulltext#W2-00000036"
+      src="https://quod.lib.umich.edu/e/eebo/A59095.0001.001/1:12?rgn=div1;view=fulltext#W2-00000036">
       
 ## <cite> Aeschyli tragoediae septem </cite> (London, 1664)
 This collection of Greek plays by Aeschylus was translated and edited by Thomas Stanley (1625-1678). It was donated by him to Middle Temple Library in 1667. It consists of the complete Greek text, with a Latin translation of each play. Stanley was a poet and classical scholar who lived at Middle Temple, next to his close friend, fellow scholar and Royalist, Edward Sherburne (1618-1702). 
