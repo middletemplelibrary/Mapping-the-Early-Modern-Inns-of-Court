@@ -12,7 +12,7 @@ Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns o
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 
-## 2 <i> Introduction: Mapping the Early Modern Inns of Court </i>
+## 2 Introduction: Mapping the Early Modern Inns of Court
 The early modern Inns of Court have long been recognised as an intellectual and cultural hub. ‘Mapping the Early Modern Inns of Court’ is an initiative that brings together an international community of researchers from a variety of disciplines working in this field. They run seminars, a blog, and provide a platform where researchers can share their work and bring published material to everyone’s attention. 
 <br><br>
 This exhibition highlights some of the areas that the group has explored in their seminars and publications: recreation (fencing, revelling, and gaming); literary culture at the Inns; religion and preaching; learning the law and verbal skills; travel and exploration endeavours. 
@@ -55,7 +55,7 @@ Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collect
        license="CC BY-NC-SA 4.0"
        label="Illustration of two ‘bastionados'">
 
-## 5 <i> Richard Martin (1570-1618) </i> 
+## 5 Richard Martin (1570-1618)
 Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html)).
 <br><br>
 
@@ -274,7 +274,7 @@ Image: Elyot
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-## 31 <i>Travel, Exploration, and Colonialism</i>
+## 31 Travel, Exploration, and Colonialism
 Both John Selden (1584-1654, Inner Temple) and Robert Ashley, through their impressive libraries, could be considered ‘armchair’ travellers. While Selden never left England, Ashley did travel to France, Holland and Spain at various points in his life. Both men acquired a large number of travel books for their libraries, a bibliographic process that mirrors Richard Hakluyt’s famous ‘armchair’ travel book, <cite>Principal navigations</cite>, a compilation of English travel accounts. 
 <br><br>
 But other Innsmen did travel beyond the book. Armagil Waad (1510-1568, Gray’s Inn) was a government official who travelled in 1536 to Newfoundland, Canada. His son was Sir William Waad (1546-1623), who travelled extensively in Europe. By 1587 Sir William was back in England, and “became the terror of the English recusants”. The Library owns five books that once belonged to Waad, including René Goulaine de Laudonnière’s <cite>L' histoire notable de la Floride située es Indes Occidentales</cite>, a history of the French Huguenot colony in Florida (1562-1565). 
