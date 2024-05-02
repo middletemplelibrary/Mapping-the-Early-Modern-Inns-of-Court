@@ -152,8 +152,9 @@ Image © [The Trustees of the British Museum.](https://www.britishmuseum.org/col
 In addition to producing translations of Greek plays, Stanley published this three volume work on ancient philosophers, concentrating on “those on whom the Attribute of Wise was conferred”. This, the second volume, includes accounts of the doctrines of Plato, Aristotle, and Stoicism. It was purchased by the Library from a fund of £50 that had been donated by Sir Richard Pepys (1588-1659, Middle Temple), revealing the continued interest in classical authors and philosophy at the Inns of Court. Pepys was Samuel Pepys’ great-uncle. His second wife was Bartholomew Gosnold’s daughter,  Mary. Gosnold (1571-1607, Middle Temple) and his wife Mary Goldinge helped establish the Virginia Company’s settlement in Jamestown in the early seventeenth century. He died there in 1607.
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/10f444f3-5f79-42b9-bb1d-92c80f877ff4)"
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/1d579ecf-59dd-46bc-be8a-2480a2ba3f7a"
        label="Aristotle">
+
 
 ## John Dryden, <cite>The medall</cite> (London, 1682)
 This is a satire in verse on Anthony Ashley Cooper (1621-1683, Lincoln’s Inn), the first Earl of Shaftesbury (and great-nephew of Robert Ashley). This is Dryden’s response to the Earl’s acquittal for treason in 1681, for which a medal was struck to commemorate the event. Although not a member of the Inn himself, Dryden was friends with Innsmen such as William Congreve (1670-1690, Middle Temple), and his plays were performed at venues beside the Inns, such as the theatre at Lincoln’s Inn Fields. 
@@ -275,7 +276,7 @@ This copy also has contemporary marginalia, and signs of previous ownership made
 Elyot proposes an educational programme for potential lawyers, which includes a focus on the value of learning the skills of ‘ancient orators’. An early modern reader has conveniently marked this point in his copy, using a marginal bracket. This, the first educational treatise published in England (1531), was dedicated to Henry VIII. Elyot stressed the importance of learning from classical writers, and that ancient orators taught pleading skills, useful for both the courtroom and for moot exercises. 
 
 <param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg"
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/2afcd2c9-6cbc-4796-998a-31cbc2ca0623"
        label="Elyot">
 
 ## Travel, Exploration, and Colonialism
@@ -346,3 +347,6 @@ In 1594 he published <cite>Tractatus de globis et eorum usu</cite>, which was de
 
 ##
 This exhibition runs in Middle Temple Library from May to August 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
+
+<param ve-iframe
+       src="https://www.middletemple.org.uk/library"
