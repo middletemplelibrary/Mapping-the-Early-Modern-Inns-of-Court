@@ -131,7 +131,6 @@ This is a collection of riddles that was once owned by John Donne (1572-1631, Li
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/a4763e37-e8f5-40c1-8d03-330935b6129d"       
        label="Reusner, Aenigmatographia title page">
 
-
 ## 13 John Selden, <cite> Table-talk </cite> (London, 1696)
 As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. <cite>Table-talk</cite> was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
 
