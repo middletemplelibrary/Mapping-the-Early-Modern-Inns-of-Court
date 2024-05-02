@@ -42,7 +42,7 @@ Innsmen enjoyed a variety of leisurely pursuits while at the Inns of Court, incl
 <param ve-iframe
        src="https://archive.org/embed/misfortunesofart00hughrich">
        
-## 4
+## 4 Squabbling at the Inns 
 Sir John Davies (1569-1626) was a poet and member of Middle Temple. He fell drunk during the Middle Temple’s 1597/1598 Christmas revels, spoke insultingly of women, and had to be carried back to the Inn after falling asleep in a stall. This was allowed to happen despite the Inn’s proclamation that the feast of Christmas was meant to be celebrated solemnly. A few days later, Davies “practised factiously against the Prince of Love [i.e. Richard Martin], and earnestly stirred enmity betwixt him” and the members of Lincoln’s Inn. In the aftermath of the revels, he attacked Martin with a ‘bastionado’ while the latter was at dinner in Hall. He escaped by boat to Oxford, and was expelled and disbarred in absentia shortly after.”  – Jackie Watson
 <br><br>
 A bastionado is a cane used to administer a blow, and originated from Turkey, where it was reserved for beating someone on the soles of the feet. It is not known whether Davies focused only on Davies’s feet … 
@@ -135,7 +135,7 @@ This is a collection of riddles that was once owned by John Donne (1572-1631, Li
 As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. <cite>Table-talk</cite> was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
 
 <param ve-iframe
-      src="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a59095.0001.001;node=A59095.0001.001:12;seq=36;submit=Go;type=simple;vid=55794;q1=popish%20books;page=root;view=text">
+      src="https://quod.lib.umich.edu/e/eebo/A59095.0001.001/1:12?rgn=div1;view=fulltext#W2-00000036">
       
 ## 14 <cite> Aeschyli tragoediae septem </cite> (London, 1664)
 This collection of Greek plays by Aeschylus was translated and edited by Thomas Stanley (1625-1678). It was donated by him to Middle Temple Library in 1667. It consists of the complete Greek text, with a Latin translation of each play. Stanley was a poet and classical scholar who lived at Middle Temple, next to his close friend, fellow scholar and Royalist, Edward Sherburne (1618-1702). 
@@ -181,8 +181,6 @@ Attempts were made in the late sixteenth-century to force the Inns to conform, a
 
 ## 18 John Donne, <cite>Pseudo-Martyr</cite> (London, 1610)
 In response to the Gunpowder Plot, in 1606 the Oath of Allegiance was proclaimed in law, requiring all Catholics to swear an allegiance to James I, not the Pope. Many Catholics refused. John Donne’s <cite>Pseudo-Martyr</cite> was written as “an exercise in religious polemic, designed to convince an English Protestant readership that even someone with personal sympathies for Catholics can find strong arguments against their refusal to take the” Oath. Donne of course was famously raised a Catholic, and the exact date of his conversion to Protestantism is unknown, but it was at least by 1601, when he was married in a Church of England ceremony. He was for a time secretary (like Robert Ashley) to Sir Thomas Egerton (1540-1617, Lincoln’s Inn), a known recusant. 
-<br><br>
-Image : Donne, Pseudo-martyr title page
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9b38d36d-3ad8-49e0-95c2-ffc90912fc96"
@@ -262,7 +260,7 @@ An early work on oratory and rhetoric, two key skills for barristers. This copy 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/31043b2d-dd95-470e-8fef-638177904853">
        
-## 29 William Fulbecke, <cite> A Direction or preparatiue to the study of the Lawe </cite (London, 1620)
+## 29 William Fulbecke, <cite> A Direction or preparatiue to the study of the Lawe </cite> (London, 1620)
 This copy also has contemporary marginalia, and signs of previous ownership made by one ‘John Kent’. The book is open to show what qualities a boy needs to study the law: “great regard of his speech”, and the ability to “deliver his opinion or argument in convenient and orderly sort, not after a rude confused and impolite manner”. Plus ça change! 
 
 <param ve-image 
