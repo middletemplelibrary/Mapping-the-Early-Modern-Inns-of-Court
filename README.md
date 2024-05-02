@@ -4,6 +4,7 @@
        author="Middle Temple Library"
        banner="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/54f6c993-26ee-4c1c-a361-c590a27763ee"
        layout="vertical">
+
 ## 1
 Welcome to Middle Temple Library’s exhibition, Mapping the Early Modern Inns of Court.
 
@@ -54,7 +55,7 @@ Image © [Trustees of the British Museum.](https://www.britishmuseum.org/collect
        license="CC BY-NC-SA 4.0"
        label="Illustration of two ‘bastionados'">
 
-## 5 <i> Portrait of Richard Martin (1570-1618) MT/19/POR/464 </i> 
+## 5 <i> Richard Martin (1570-1618) </i> 
 Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for the 1597/1598 Middle Temple revels, which involved overseeing the participants’ skills in dancing, singing, and music. The performers (all members of the Inn) also had to demonstrate their skills in rhetoric and law. Martin was one of a group of wits that included Ben Jonson and John Donne (Lincoln’s Inn), and may have been one of the co-authors of the ‘Parliament Fart,’ an immensely popular poetic libel circulated in manuscript from 1607 onwards. “The poem’s characteristics of wit and parody invite comparison with the law sports of the Inns of Court Christmas revels; in both cases, parody relies on a heightened awareness of the codes and conventions that define an institution.” ([Early Stuart Libels](https://www.earlystuartlibels.net/htdocs/parliament_fart_section/C0.html)).
 <br><br>
 
@@ -62,7 +63,7 @@ Richard Martin had been elected as the ‘Prince d’amour/Prince of Love’ for
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9d11d6f9-cb5f-4d03-9fd9-bd6d9054992d"
        label="Portrait of Richard Martin (1570-1618) MT/19/POR/464">
 
-## 6 <i> Fencing receipt: MT/21/2/7/HT: payment to fencing professor M[onsieur] Philebois, dated 1653 </i>
+## 6 Fencing at the Inns
 “Those who dedicated themselves to the study of law at the Inns valued such intellectual traits as a keen memory and verbal playfulness. In addition to his supreme intelligence, an Innsman in this period also cultivated a courtly physique. Ongoing research work on the performance of dancing and fencing at the Inns reveals that the men admired balance, strength, and quick-footedness. Not everyone [for example, John Davies] had the body to meet such strict standards”. – Penelope Geng
 <br><br>
 
@@ -78,13 +79,13 @@ Fortescue’s <cite>De Laudibus Legum Angliae</cite> (in praise of the laws of E
        src="https://quod.lib.umich.edu/e/eebo/A01083.0001.001?rgn=main;view=fulltext">
        
 ## 8 Daneau Lambert, <cite> Deux traitez nouveaux, tres-utiles pour ce temps … </cite> (Geneva, 1579)
-This book was part of the Robert Ashley bequest of 1641 which reinstated a library at Middle Temple. It is divided into two parts. The first is about witchcraft, and the second about the religious aspects of dice and card games. In 1628, Gray’s Inn decreed that “all playing at dice, cards, or otherwise, in the hall, buttery, or butler’s chamber” was forbidden, except for the twenty days at Christmas. Innsmen were loathe to obey such rules however. In 1730s the floor boards in Middle Temple Hall were replaced, revealing hundreds of pairs of dice were found, having fallen through floor joints over the years. 
+This book is divided into two parts. The first is about witchcraft, and the second about the religious aspects of dice and card games. In 1628, Gray’s Inn decreed that “all playing at dice, cards, or otherwise, in the hall, buttery, or butler’s chamber” was forbidden, except for the twenty days at Christmas. Innsmen were loathe to obey such rules however. In 1730s the floor boards in Middle Temple Hall were replaced, revealing hundreds of pairs of dice were found, having fallen through floor joints over the years. 
 <br><br>
 
 <param ve-iframe
        src="https://gallica.bnf.fr/ark:/12148/bpt6k84824s/f1.image.mini">
 
-## 9 <i> An unsigned letter, potentially to Master Treasurer, MT/3/MEM/24, 1667/8 </i>
+## 9 Letter of complaint
 This copy of an anonymous letter addressed to Sir Geoffrey Palmer, ‘Mr Att[orney] Generall’ is dated 3 January 1668 by the modern Gregorian calendar, which starts each new year on 1 January, not 25 March as in the pre-1752 Julian calendar. So it was written just 14 months after the September 1666 Great Fire of London, which destroyed most of the medieval city, spreading almost to the Temple Church. This disaster was seen by many contemporaries, including the letter’s author, as God’s punishment for the sins of the nation in general and Londoners in particular.
 <br><br>
 While the Church of England had returned with Charles II in 1660, puritans (radical protestants) were still thick on the ground, not least in London. Disapproving of the habitual student gaming with cards and dice over the twelve days of Christmas in the halls of the Inns of Court, they regarded mixed dancing on Saturday night and into Sunday morning with real horror. This profanation of the Lord’s Day clearly required — if not the dire retribution meted out by Phineas in the Old Testament (Numbers, 25.7-11) — at very least a file of soldiers to bar revellers from the Middle Temple Hall. 
@@ -128,7 +129,7 @@ This is a collection of riddles that was once owned by John Donne (1572-1631, Li
 image: Reusner, Aenigmatographia – title page
 
 ## 13 John Selden, <cite> Table-talk </cite> (London, 1696)
-As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. <cite>Table-talk</cite>was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
+As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. <cite>Table-talk</cite> was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
 
 <param ve-iframe
       src="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=eebo;c=eebo;idno=a59095.0001.001;node=A59095.0001.001:12;seq=36;submit=Go;type=simple;vid=55794;q1=popish%20books;page=root;view=text">
