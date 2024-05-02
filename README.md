@@ -118,15 +118,19 @@ Perhaps one of the most famous examples of their participation in literary cultu
        
 ## 11 Otto Melander, <cite>Jocorum atque seriorum</cite> (Frankfurt, 1617)
 Melander was a German lawyer who was critical of witchcraft trials. He had a sideline in publishing collections such as this, which is a compendium of jokes in Latin and humorous anecdotes. Blessin Adams has shown how early modern legal manuscript notebooks often contained non-legal texts alongside their more serious contents of moots and legal learning exercises, including ‘joco seria’ – humourous stories and jests. See for example Cambridge University Library’s manuscript CUL Dd.5.14.
-<br><br>
 
-image : Jocorum atque seriorum title page
+<param ve-image 
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/2436eb0f-50db-43a8-912e-7aaf99ed31b1"
+       label="Jocorum atque seriorum title page">
+
 
 ## 12 Nikolaus Reusner <cite>Aenigmatographia</cite> (Frankfurt, 1599)
 This is a collection of riddles that was once owned by John Donne (1572-1631, Lincoln’s Inn), as can be seen by his signature and motto, ‘Per Rachel ho seruito, & no[n] per Leah’ (I have served Rachel, not Leah). Donne’s motto, from Petrarch’s reference to <cite>Genesis</cite> 29, reveals that he chose a contemplative life over an active one. Donne started life at Lincoln’s Inn as a metaphysical poet, but later became Dean of St. Paul’s Cathedral Reusner was a prolific writer, who published at least 83 works during his life. This book is also part of the Ashley bequest. Ashley had five other books by Reusner, including one on the Turks.
-<br><br>
 
-image: Reusner, Aenigmatographia – title page
+<param ve-image 
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/a4763e37-e8f5-40c1-8d03-330935b6129d"       
+       label="Reusner, Aenigmatographia title page">
+
 
 ## 13 John Selden, <cite> Table-talk </cite> (London, 1696)
 As can be seen here, Selden writes that “Popish books teach and inform; what we know we know much out of them. … He is a poor Divine that cannot sever the good from the bad”. <cite>Table-talk</cite> was a posthumous collection of Selden’s witty observations on a variety of ‘talking points’ recorded by Selden’s secretary Richard Milward (1609-1680). It is likely that his observations circulated in manuscript at the Inns of Court prior to his death. Catholic books, although often banned, provided valuable information about Catholic beliefs, which was helpful for Protestant critics. They also provided information about Catholic countries and their political situations- useful information for Protestant statesmen. 
@@ -182,7 +186,9 @@ In response to the Gunpowder Plot, in 1606 the Oath of Allegiance was proclaimed
 Image : Donne, Pseudo-martyr title page
 
 <param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/9b38d36d-3ad8-49e0-95c2-ffc90912fc96"
+       label="Donne, Pseudo-martyr title page">
+
 
 ## 20 <i>Communion books, mid-seventeenth century, MT/15/COM/1</i>
 Members of Middle and Inner Temple had to sign this book to show that they had taken communion in Temple Church. It is open at 9 May 1669. One of the signers is Sir John Hoskyns (1634-1705, Middle Temple). Hoskyns became president of the Royal Society in 1682. He was friends with John Evelyn (1620-1706, Middle Temple), John Aubrey and other scholars. He was described as an awkwardly dressed man who might be taken for a ‘sorry quack’ because of it. He is not to be confused with the poet and wit John Hoski/yns (1566-1638, Middle Temple), who is described as ‘merry’ in the ‘Parliament Fart’, and who participated in the 1597-8 revels at Middle Temple. 
@@ -232,11 +238,10 @@ Seneca was a model orator and lawyer to Innsmen, who studied and translated his 
 ## 25 Richard Mulcaster, <cite>Positions vvherin those primitiue circumstances be examined, which are necessarie for the training vp of children, either for skill in their booke, or health in their bodie</cite> (London, 1581) 
 Sir James Whitelocke (1570-1632, Middle Temple) wrote in his journal (later published as ‘Liber famelicus’) that his headmaster, Richard Mulcaster, recruited his students to act in plays that were performed for the court. Whitelocke wrote that he learned “good behaviour and audacitye” from acting these roles. This copy belonged to ‘Walter Hawgh’ (dates unknown), possibly the poet and official to the Archdeacon of Norwich. 
 Mulcaster (1530-1611) was the first headmaster of Merchant Taylors’ School, and later headmaster at St. Paul’s School. In addition to this work, he wrote one other book on the education of children, <cite>The first part of the elementarie</cite> (London, 1581).  
-<br><br>
-image: Mulcaster: title page
 
 <param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/457e26fd-cf15-4c98-9e58-4632f577f314"
+       label="Mulcaster title page">
 
 ## 26 Christopher Saint German, <cite>The dialogue in English, betweene a doctor of diuinitie, and a student in the lawes of England</cite> (London, 1607). 
 Saint German (1460?-1540, Middle Temple), originally published this book in Latin in 1523. His book “popularized canonist learning on the nature and object of law, the religious and moral standards of law, the foundations of the common law and other issues regarding the jurisdiction of Parliament” (Law Book Exchange). It was an important work that went through multiple editions. This copy once belonged to a Henry Gardiner, dated 1609, and other owners, showing the continued popularity of the ‘dialogue’ to lawyers and students. 
@@ -258,21 +263,23 @@ An early work on oratory and rhetoric, two key skills for barristers. This copy 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/31043b2d-dd95-470e-8fef-638177904853">
        
-## 29 William Fulbecke, <cite>A Direction or preparatiue to the study of the Lawe</cite>(London, 1620)
+## 29 William Fulbecke, <cite> A Direction or preparatiue to the study of the Lawe </cite (London, 1620)
 This copy also has contemporary marginalia, and signs of previous ownership made by one ‘John Kent’. The book is open to show what qualities a boy needs to study the law: “great regard of his speech”, and the ability to “deliver his opinion or argument in convenient and orderly sort, not after a rude confused and impolite manner”. Plus ça change! 
-<br><br>
-Image: Fulbecke
 
 <param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
-
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/1001c62b-1153-4798-a1ae-88fbe6444279"
+       label="Fulbecke">
+       
+<param ve-image 
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/d253a677-75a1-48a8-b58b-03e00733ff3e"
+       label="Fulbecke">
+       
 ## 30 Thomas Elyot, <cite>The book named the governor</cite> (London, 1544)
 Elyot proposes an educational programme for potential lawyers, which includes a focus on the value of learning the skills of ‘ancient orators’. An early modern reader has conveniently marked this point in his copy, using a marginal bracket. This, the first educational treatise published in England (1531), was dedicated to Henry VIII. Elyot stressed the importance of learning from classical writers, and that ancient orators taught pleading skills, useful for both the courtroom and for moot exercises. 
-<br><br>
-Image: Elyot
 
 <param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg"
+       label="Elyot">
 
 ## 31 Travel, Exploration, and Colonialism
 Both John Selden (1584-1654, Inner Temple) and Robert Ashley, through their impressive libraries, could be considered ‘armchair’ travellers. While Selden never left England, Ashley did travel to France, Holland and Spain at various points in his life. Both men acquired a large number of travel books for their libraries, a bibliographic process that mirrors Richard Hakluyt’s famous ‘armchair’ travel book, <cite>Principal navigations</cite>, a compilation of English travel accounts. 
@@ -335,11 +342,10 @@ Image courtesy of [Manitoba Historical Maps Flickr.](https://www.flickr.com/phot
 Robert Hues (1553 - 1632) was a renowned mathematician and geographer. While studying at the University of Oxford he was introduced to Walter Raleigh and his circle of sailors and navigators through his friend Richard Hakluyt. He became very interested in navigation and accompanied Thomas Cavendish on his circumnavigation of the world in 1586-1588. He may also have accompanied Walter Raleigh on his trip to Virginia in 1585.
 <br><br>
 In 1594 he published <cite>Tractatus de globis et eorum usu</cite>, which was dedicated to Walter Raleigh. This book was published to accompany and explain the use of a pair of globes made by Emery Molyneux in 1592, of which the only surviving pair can be seen here in the Library. It was also intended to encourage the use of practical astronomical navigation by English sailors. References to Raleigh, Cavendish and other English sailors are made on the terrestrial globe. This treatise was widely circulated and was translated into Dutch, French (seen here), and German. Curiously, the first English translation, <cite>A Learned Treatise of Globes, Both Coelestiall and Terrestriall: with their several uses</cite> was not published until 1638.
-<br><br>
-image: Hues title page
 
 <param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/d65799ec-96ec-4751-87be-c732b3bb75dc"
+       label="Hues title page">
 
 ##
 This exhibition runs in Middle Temple Library from May to August 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
