@@ -125,7 +125,7 @@ Melander was a German lawyer who was critical of witchcraft trials. He had a sid
 
 
 ## Nikolaus Reusner <cite>Aenigmatographia</cite> (Frankfurt, 1599)
-This is a collection of riddles that was once owned by John Donne (1572-1631, Lincoln’s Inn), as can be seen by his signature and motto, ‘Per Rachel ho seruito, & no[n] per Leah’ (I have served Rachel, not Leah). Donne’s motto, from Petrarch’s reference to <cite>Genesis</cite> 29, reveals that he chose a contemplative life over an active one. Donne started life at Lincoln’s Inn as a metaphysical poet, but later became Dean of St. Paul’s Cathedral. Reusner was a prolific writer, who published at least 83 works during his life. This book is also Robert Ashley bequest of 1641 that re-established a library at Middle Temple. Ashley had five other books by Reusner, including one on the Turks.
+This is a collection of riddles that was once owned by John Donne (1572-1631, Lincoln’s Inn), as can be seen by his signature and motto, ‘Per Rachel ho seruito, & no[n] per Leah’ (I have served Rachel, not Leah). Donne’s motto, from Petrarch’s reference to <cite>Genesis</cite> 29, reveals that he chose a contemplative life over an active one. Donne started life at Lincoln’s Inn as a metaphysical poet, but later became Dean of St. Paul’s Cathedral. Reusner was a prolific writer, who published at least 83 works during his life. This book is also part of the Robert Ashley bequest of 1641 that re-established a library at Middle Temple. Ashley had five other books by Reusner, including one on the Turks.
 
 <param ve-image 
        url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/57a99295-a7cd-43ba-bbc7-d252214357d8"
