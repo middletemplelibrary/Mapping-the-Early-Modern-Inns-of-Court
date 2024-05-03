@@ -347,5 +347,5 @@ In 1594 he published <cite>Tractatus de globis et eorum usu</cite>, which was de
 ##
 This exhibition runs in Middle Temple Library from May to August 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
 
-<param ve-iframe
-       src="https://www.middletemple.org.uk/library"
+<param ve-image
+       url="https://github.com/middletemplelibrary/Mapping-the-Early-Modern-Inns-of-Court/assets/110464039/b23a3a56-8f2a-4bd8-8c04-9bb3d1cf3f93"
