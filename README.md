@@ -189,10 +189,10 @@ In response to the Gunpowder Plot, in 1606 the Oath of Allegiance was proclaimed
 
 
 ## <i>Communion books, mid-seventeenth century, MT/15/COM/1</i>
-Members of Middle and Inner Temple had to sign this book to show that they had taken communion in Temple Church. It is open at 9 May 1669. One of the signers is Sir John Hoskyns (1634-1705, Middle Temple). Hoskyns became president of the Royal Society in 1682. He was friends with John Evelyn (1620-1706, Middle Temple), John Aubrey and other scholars. He was described as an awkwardly dressed man who might be taken for a ‘sorry quack’ because of it. He is not to be confused with the poet and wit John Hoski/yns (1566-1638, Middle Temple), who is described as ‘merry’ in the ‘Parliament Fart’, and who participated in the 1597-8 revels at Middle Temple. 
+Members of Middle and Inner Temple had to sign the communion book to show that they had taken communion in Temple Church. On 9 May 1669, one of the signers was Sir John Hoskyns (1634-1705, Middle Temple). Hoskyns became president of the Royal Society in 1682. He was friends with John Evelyn (1620-1706, Middle Temple), John Aubrey and other scholars. He was described as an awkwardly dressed man who might be taken for a ‘sorry quack’ because of it. He is not to be confused with the poet and wit John Hoski/yns (1566-1638, Middle Temple), who is described as ‘merry’ in the ‘Parliament Fart’, and who participated in the 1597-8 revels at Middle Temple. 
 
 <param ve-iframe
- src="https://makingscience.royalsociety.org/embed/items/rbo_2i_16/observations-of-iceland-by-mr-hoskins"
+       src="https://makingscience.royalsociety.org/embed/items/rbo_2i_16/observations-of-iceland-by-mr-hoskins"
        label="Observations of Iceland by Mr Hoskins: Reference number: RBO/2i/16">
 
 ## John Sweet, <cite>Monsig[neu]r fate voi. Or A discovery of the Dalmatian apostata</cite> (Saint-Omer, 1617)
@@ -313,11 +313,10 @@ Almanacs provided a range of information for their users, including astrological
 In this tract, Bullock chastised the Virginia governors for focusing too heavily on tobacco production, in lieu of other commodities. Tobacco saturated the market in England and caused bankruptcies for some investors. Bullock’s tract includes suggestions on how to improve the natural and economic conditions in Virginia, as well as descriptions of the land: “what this countrey affords of beasts, fowls, birds, and fish for foode”. It was dedicated to the Earl of Arundel and Lord Baltimore, George Calvert. 
 <br><br>
 This tract was one of the hundreds donated to the Library by William Petyt (1640/41-1707, Middle Temple and Inner Temple). Petyt was Treasurer at Inner Temple in 1701-1702. He was an ardent student of English historical records, and the author of “one of the most effective and powerful of the radical ancient constitutionalist tracts” of the late seventeenth-century, <cite>The Antient Right of the Commons of England Asserted</cite> (1680). 
-<br><br>
-image: William Bullock title page
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+<param ve-iframe
+       src="https://archive.org/embed/virginiaimpartia00bull"
+       label="William Bullock, Virginia impartially examined (London, 1649)">
 
 ## Gonzalo Fernández de Oviedo y Valdés, <cite>L'histoire naturelle et generalle des Indes, isles, et terre ferme de la grand mer oceane</cite> (Paris, 1556)
 This is a French translation of <cite>Historia general y natural de las Indias</cite>, first published in Toledo in 1526. As can be seen here, it has a maxim on the title page, which Robert Ashley has ascribed to Seneca: ‘Ille mihi vivere atque frui anima videtur, qui aliquo negotio intentus praeclari facinoris aut artis bonae famam quaerit’ (only that man appears to me to be alive and make the most of life who by devoting himself to some enterprise, seeks fame for a glorious deed or good practice). The line actually appears in Sallust’s ‘The war with Catiline’. There is a pre-Ashley inscription on the title page as well, dated 1593: ‘Assai ben balla, a chi fortuna suona’. 
