@@ -315,7 +315,7 @@ In this tract, Bullock chastised the Virginia governors for focusing too heavily
 Middle Temple Library’s copy of this tract was one of the hundreds donated to the Library by William Petyt (1640/41-1707, Middle Temple and Inner Temple). Petyt was Treasurer at Inner Temple in 1701-1702. He was an ardent student of English historical records, and the author of “one of the most effective and powerful of the radical ancient constitutionalist tracts” of the late seventeenth-century, <cite>The Antient Right of the Commons of England Asserted</cite> (1680). 
 
 <param ve-iframe
-       src="https://archive.org/embed/virginiaimpartia00bull"
+       src="https://archive.org/details/virginiaimpartia00bull/page/n6/mode/1up?view=theater"
        label="William Bullock, Virginia impartially examined (London, 1649)">
 
 ## Gonzalo Fernández de Oviedo y Valdés, <cite>L'histoire naturelle et generalle des Indes, isles, et terre ferme de la grand mer oceane</cite> (Paris, 1556)
