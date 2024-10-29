@@ -160,7 +160,7 @@ In addition to producing translations of Greek plays, Stanley published this thr
 This is a satire in verse on Anthony Ashley Cooper (1621-1683, Lincoln’s Inn), the first Earl of Shaftesbury (and great-nephew of Robert Ashley). This is Dryden’s response to the Earl’s acquittal for treason in 1681, for which a medal was struck to commemorate the event. Although not a member of the Inn himself, Dryden was friends with Innsmen such as William Congreve (1670-1690, Middle Temple), and his plays were performed at venues beside the Inns, such as the theatre at Lincoln’s Inn Fields. 
 
 <param ve-iframe
-       src="https://archive.org/embed/drydenmedall1682">
+       src="https://archive.org/details/drydenmedall1682/mode/2up?view=theater">
 
 ## Christopher Brooke, <cite>The ghost of Richard the Third</cite> (London, 1614)
 Christopher Brooke (d. 1628, Lincoln’s Inn) was friends with John Donne, and shared a set of chambers with him. This play contains dedicatory poems by members of Inner Temple, including William Browne (1590-1645) and Francis Dynne (dates unknown). On the title page, Brooke claims the poem contains more about Richard the Third than ‘hath been heretofore shewed; either in Chronicles, Playaes, or poems,’ a reference to the various publications and performances that were being circulated at the time, including the one by Shakespeare. 
