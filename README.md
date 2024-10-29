@@ -40,7 +40,7 @@ Innsmen enjoyed a variety of leisurely pursuits while at the Inns of Court, incl
 <br><br>
 
 <param ve-iframe
-       src="https://archive.org/details/misfortunesofart00hughrich/page/4/mode/2up"> 
+       src="https://archive.org/details/misfortunesofart00hughrich/page/4/mode/2up?view=theater">
        
 ## Squabbling at the Inns 
 Sir John Davies (1569-1626) was a poet and member of Middle Temple. He fell drunk during the Middle Temple’s 1597/1598 Christmas revels, spoke insultingly of women, and had to be carried back to the Inn after falling asleep in a stall. This was allowed to happen despite the Inn’s proclamation that the feast of Christmas was meant to be celebrated solemnly. A few days later, Davies “practised factiously against the Prince of Love [i.e. Richard Martin], and earnestly stirred enmity betwixt him” and the members of Lincoln’s Inn. In the aftermath of the revels, he attacked Martin with a ‘bastionado’ while the latter was at dinner in Hall. He escaped by boat to Oxford, and was expelled and disbarred in absentia shortly after.”  – Jackie Watson
