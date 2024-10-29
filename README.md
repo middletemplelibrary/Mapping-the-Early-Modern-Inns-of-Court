@@ -197,6 +197,8 @@ Members of Middle and Inner Temple had to sign the communion book to show that t
 
 ## John Sweet, <cite>Monsig[neu]r fate voi. Or A discovery of the Dalmatian apostata</cite> (Saint-Omer, 1617)
 As per the title page, this tract was written by ‘C.A.’ (that is, John Sweet) “to his friend P.R. student of the lawes in the Middle Temple”. The ‘Dalmatian apostata’ is a reference to Marco Antonio de Dominis (1560-1604), who fled from the Popish dominions to England during the reign of James I, where he published a series of books against the spiritual primacy of the See of Rome. Sweet was an English Jesuit, who wrote this tract in response to de Dominis’s <cite>De Republica Ecclesiastica</cite>. It was printed by the English College Press in Saint-Omer, France. The Press was part of the English Jesuit College, established by the Company of Jesuits to train English Jesuit missionaries. The identity of ‘P.R.’ is unknown, but recusants were known to reside at the Inns in the early modern period. 
+<br><br>
+Text courtesy of Internet Archive, <cite>[Monsigr. fate voi; or, A discovery of the Dalmation apostata, ...  1617](https://archive.org/details/bim_early-english-books-1475-1640_monsigr-fate-voi-or-a_sweet-j_1617)</cite>. 
 
 <param ve-iframe
        src="https://ia800206.us.archive.org/30/items/bim_early-english-books-1475-1640_monsigr-fate-voi-or-a_sweet-j_1617/bim_early-english-books-1475-1640_monsigr-fate-voi-or-a_sweet-j_1617.pdf">
